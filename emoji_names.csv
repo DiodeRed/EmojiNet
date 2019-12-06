@@ -1,0 +1,3188 @@
+u0023_20e3	keycap: #
+u002a_20e3	keycap: *
+u0030_20e3	keycap: 0
+u0031_20e3	keycap: 1
+u0032_20e3	keycap: 2
+u0033_20e3	keycap: 3
+u0034_20e3	keycap: 4
+u0035_20e3	keycap: 5
+u0036_20e3	keycap: 6
+u0037_20e3	keycap: 7
+u0038_20e3	keycap: 8
+u0039_20e3	keycap: 9
+u00a9	copyright
+u00ae	registered
+u1f004	mahjong red dragon
+u1f0cf	joker
+u1f170	A button (blood type)
+u1f171	B button (blood type)
+u1f17e	O button (blood type)
+u1f17f	P button
+u1f18e	AB button (blood type)
+u1f191	CL button
+u1f192	COOL button
+u1f193	FREE button
+u1f194	ID button
+u1f195	NEW button
+u1f196	NG button
+u1f197	OK button
+u1f198	SOS button
+u1f199	UP! button
+u1f19a	VS button
+u1f1e6_1f1e8	flag: Ascension Island
+u1f1e6_1f1e9	flag: Andorra
+u1f1e6_1f1ea	flag: United Arab Emirates
+u1f1e6_1f1eb	flag: Afghanistan
+u1f1e6_1f1ec	flag: Antigua & Barbuda
+u1f1e6_1f1ee	flag: Anguilla
+u1f1e6_1f1f1	flag: Albania
+u1f1e6_1f1f2	flag: Armenia
+u1f1e6_1f1f4	flag: Angola
+u1f1e6_1f1f6	flag: Antarctica
+u1f1e6_1f1f7	flag: Argentina
+u1f1e6_1f1f8	flag: American Samoa
+u1f1e6_1f1f9	flag: Austria
+u1f1e6_1f1fa	flag: Australia
+u1f1e6_1f1fc	flag: Aruba
+u1f1e6_1f1fd	flag: Åland Islands
+u1f1e6_1f1ff	flag: Azerbaijan
+u1f1e7_1f1e6	flag: Bosnia & Herzegovina
+u1f1e7_1f1e7	flag: Barbados
+u1f1e7_1f1e9	flag: Bangladesh
+u1f1e7_1f1ea	flag: Belgium
+u1f1e7_1f1eb	flag: Burkina Faso
+u1f1e7_1f1ec	flag: Bulgaria
+u1f1e7_1f1ed	flag: Bahrain
+u1f1e7_1f1ee	flag: Burundi
+u1f1e7_1f1ef	flag: Benin
+u1f1e7_1f1f1	flag: St. Barthélemy
+u1f1e7_1f1f2	flag: Bermuda
+u1f1e7_1f1f3	flag: Brunei
+u1f1e7_1f1f4	flag: Bolivia
+u1f1e7_1f1f6	flag: Caribbean Netherlands
+u1f1e7_1f1f7	flag: Brazil
+u1f1e7_1f1f8	flag: Bahamas
+u1f1e7_1f1f9	flag: Bhutan
+u1f1e7_1f1fb	flag: Bouvet Island
+u1f1e7_1f1fc	flag: Botswana
+u1f1e7_1f1fe	flag: Belarus
+u1f1e7_1f1ff	flag: Belize
+u1f1e8_1f1e6	flag: Canada
+u1f1e8_1f1e8	flag: Cocos (Keeling) Islands
+u1f1e8_1f1e9	flag: Congo - Kinshasa
+u1f1e8_1f1eb	flag: Central African Republic
+u1f1e8_1f1ec	flag: Congo - Brazzaville
+u1f1e8_1f1ed	flag: Switzerland
+u1f1e8_1f1ee	flag: Côte d’Ivoire
+u1f1e8_1f1f0	flag: Cook Islands
+u1f1e8_1f1f1	flag: Chile
+u1f1e8_1f1f2	flag: Cameroon
+u1f1e8_1f1f3	flag: China
+u1f1e8_1f1f4	flag: Colombia
+u1f1e8_1f1f5	flag: Clipperton Island
+u1f1e8_1f1f7	flag: Costa Rica
+u1f1e8_1f1fa	flag: Cuba
+u1f1e8_1f1fb	flag: Cape Verde
+u1f1e8_1f1fc	flag: Curaçao
+u1f1e8_1f1fd	flag: Christmas Island
+u1f1e8_1f1fe	flag: Cyprus
+u1f1e8_1f1ff	flag: Czechia
+u1f1e9_1f1ea	flag: Germany
+u1f1e9_1f1ec	flag: Diego Garcia
+u1f1e9_1f1ef	flag: Djibouti
+u1f1e9_1f1f0	flag: Denmark
+u1f1e9_1f1f2	flag: Dominica
+u1f1e9_1f1f4	flag: Dominican Republic
+u1f1e9_1f1ff	flag: Algeria
+u1f1ea_1f1e6	flag: Ceuta & Melilla
+u1f1ea_1f1e8	flag: Ecuador
+u1f1ea_1f1ea	flag: Estonia
+u1f1ea_1f1ec	flag: Egypt
+u1f1ea_1f1ed	flag: Western Sahara
+u1f1ea_1f1f7	flag: Eritrea
+u1f1ea_1f1f8	flag: Spain
+u1f1ea_1f1f9	flag: Ethiopia
+u1f1ea_1f1fa	flag: European Union
+u1f1eb_1f1ee	flag: Finland
+u1f1eb_1f1ef	flag: Fiji
+u1f1eb_1f1f0	flag: Falkland Islands
+u1f1eb_1f1f2	flag: Micronesia
+u1f1eb_1f1f4	flag: Faroe Islands
+u1f1eb_1f1f7	flag: France
+u1f1ec_1f1e6	flag: Gabon
+u1f1ec_1f1e7	flag: United Kingdom
+u1f1ec_1f1e9	flag: Grenada
+u1f1ec_1f1ea	flag: Georgia
+u1f1ec_1f1eb	flag: French Guiana
+u1f1ec_1f1ec	flag: Guernsey
+u1f1ec_1f1ed	flag: Ghana
+u1f1ec_1f1ee	flag: Gibraltar
+u1f1ec_1f1f1	flag: Greenland
+u1f1ec_1f1f2	flag: Gambia
+u1f1ec_1f1f3	flag: Guinea
+u1f1ec_1f1f5	flag: Guadeloupe
+u1f1ec_1f1f6	flag: Equatorial Guinea
+u1f1ec_1f1f7	flag: Greece
+u1f1ec_1f1f8	flag: South Georgia & South Sandwich Islands
+u1f1ec_1f1f9	flag: Guatemala
+u1f1ec_1f1fa	flag: Guam
+u1f1ec_1f1fc	flag: Guinea-Bissau
+u1f1ec_1f1fe	flag: Guyana
+u1f1ed_1f1f0	flag: Hong Kong SAR China
+u1f1ed_1f1f2	flag: Heard & McDonald Islands
+u1f1ed_1f1f3	flag: Honduras
+u1f1ed_1f1f7	flag: Croatia
+u1f1ed_1f1f9	flag: Haiti
+u1f1ed_1f1fa	flag: Hungary
+u1f1ee_1f1e8	flag: Canary Islands
+u1f1ee_1f1e9	flag: Indonesia
+u1f1ee_1f1ea	flag: Ireland
+u1f1ee_1f1f1	flag: Israel
+u1f1ee_1f1f2	flag: Isle of Man
+u1f1ee_1f1f3	flag: India
+u1f1ee_1f1f4	flag: British Indian Ocean Territory
+u1f1ee_1f1f6	flag: Iraq
+u1f1ee_1f1f7	flag: Iran
+u1f1ee_1f1f8	flag: Iceland
+u1f1ee_1f1f9	flag: Italy
+u1f1ef_1f1ea	flag: Jersey
+u1f1ef_1f1f2	flag: Jamaica
+u1f1ef_1f1f4	flag: Jordan
+u1f1ef_1f1f5	flag: Japan
+u1f1f0_1f1ea	flag: Kenya
+u1f1f0_1f1ec	flag: Kyrgyzstan
+u1f1f0_1f1ed	flag: Cambodia
+u1f1f0_1f1ee	flag: Kiribati
+u1f1f0_1f1f2	flag: Comoros
+u1f1f0_1f1f3	flag: St. Kitts & Nevis
+u1f1f0_1f1f5	flag: North Korea
+u1f1f0_1f1f7	flag: South Korea
+u1f1f0_1f1fc	flag: Kuwait
+u1f1f0_1f1fe	flag: Cayman Islands
+u1f1f0_1f1ff	flag: Kazakhstan
+u1f1f1_1f1e6	flag: Laos
+u1f1f1_1f1e7	flag: Lebanon
+u1f1f1_1f1e8	flag: St. Lucia
+u1f1f1_1f1ee	flag: Liechtenstein
+u1f1f1_1f1f0	flag: Sri Lanka
+u1f1f1_1f1f7	flag: Liberia
+u1f1f1_1f1f8	flag: Lesotho
+u1f1f1_1f1f9	flag: Lithuania
+u1f1f1_1f1fa	flag: Luxembourg
+u1f1f1_1f1fb	flag: Latvia
+u1f1f1_1f1fe	flag: Libya
+u1f1f2_1f1e6	flag: Morocco
+u1f1f2_1f1e8	flag: Monaco
+u1f1f2_1f1e9	flag: Moldova
+u1f1f2_1f1ea	flag: Montenegro
+u1f1f2_1f1eb	flag: St. Martin
+u1f1f2_1f1ec	flag: Madagascar
+u1f1f2_1f1ed	flag: Marshall Islands
+u1f1f2_1f1f0	flag: North Macedonia
+u1f1f2_1f1f1	flag: Mali
+u1f1f2_1f1f2	flag: Myanmar (Burma)
+u1f1f2_1f1f3	flag: Mongolia
+u1f1f2_1f1f4	flag: Macao SAR China
+u1f1f2_1f1f5	flag: Northern Mariana Islands
+u1f1f2_1f1f6	flag: Martinique
+u1f1f2_1f1f7	flag: Mauritania
+u1f1f2_1f1f8	flag: Montserrat
+u1f1f2_1f1f9	flag: Malta
+u1f1f2_1f1fa	flag: Mauritius
+u1f1f2_1f1fb	flag: Maldives
+u1f1f2_1f1fc	flag: Malawi
+u1f1f2_1f1fd	flag: Mexico
+u1f1f2_1f1fe	flag: Malaysia
+u1f1f2_1f1ff	flag: Mozambique
+u1f1f3_1f1e6	flag: Namibia
+u1f1f3_1f1e8	flag: New Caledonia
+u1f1f3_1f1ea	flag: Niger
+u1f1f3_1f1eb	flag: Norfolk Island
+u1f1f3_1f1ec	flag: Nigeria
+u1f1f3_1f1ee	flag: Nicaragua
+u1f1f3_1f1f1	flag: Netherlands
+u1f1f3_1f1f4	flag: Norway
+u1f1f3_1f1f5	flag: Nepal
+u1f1f3_1f1f7	flag: Nauru
+u1f1f3_1f1fa	flag: Niue
+u1f1f3_1f1ff	flag: New Zealand
+u1f1f4_1f1f2	flag: Oman
+u1f1f5_1f1e6	flag: Panama
+u1f1f5_1f1ea	flag: Peru
+u1f1f5_1f1eb	flag: French Polynesia
+u1f1f5_1f1ec	flag: Papua New Guinea
+u1f1f5_1f1ed	flag: Philippines
+u1f1f5_1f1f0	flag: Pakistan
+u1f1f5_1f1f1	flag: Poland
+u1f1f5_1f1f2	flag: St. Pierre & Miquelon
+u1f1f5_1f1f3	flag: Pitcairn Islands
+u1f1f5_1f1f7	flag: Puerto Rico
+u1f1f5_1f1f8	flag: Palestinian Territories
+u1f1f5_1f1f9	flag: Portugal
+u1f1f5_1f1fc	flag: Palau
+u1f1f5_1f1fe	flag: Paraguay
+u1f1f6_1f1e6	flag: Qatar
+u1f1f7_1f1ea	flag: Réunion
+u1f1f7_1f1f4	flag: Romania
+u1f1f7_1f1f8	flag: Serbia
+u1f1f7_1f1fa	flag: Russia
+u1f1f7_1f1fc	flag: Rwanda
+u1f1f8_1f1e6	flag: Saudi Arabia
+u1f1f8_1f1e7	flag: Solomon Islands
+u1f1f8_1f1e8	flag: Seychelles
+u1f1f8_1f1e9	flag: Sudan
+u1f1f8_1f1ea	flag: Sweden
+u1f1f8_1f1ec	flag: Singapore
+u1f1f8_1f1ed	flag: St. Helena
+u1f1f8_1f1ee	flag: Slovenia
+u1f1f8_1f1ef	flag: Svalbard & Jan Mayen
+u1f1f8_1f1f0	flag: Slovakia
+u1f1f8_1f1f1	flag: Sierra Leone
+u1f1f8_1f1f2	flag: San Marino
+u1f1f8_1f1f3	flag: Senegal
+u1f1f8_1f1f4	flag: Somalia
+u1f1f8_1f1f7	flag: Suriname
+u1f1f8_1f1f8	flag: South Sudan
+u1f1f8_1f1f9	flag: São Tomé & Príncipe
+u1f1f8_1f1fb	flag: El Salvador
+u1f1f8_1f1fd	flag: Sint Maarten
+u1f1f8_1f1fe	flag: Syria
+u1f1f8_1f1ff	flag: Eswatini
+u1f1f9_1f1e6	flag: Tristan da Cunha
+u1f1f9_1f1e8	flag: Turks & Caicos Islands
+u1f1f9_1f1e9	flag: Chad
+u1f1f9_1f1eb	flag: French Southern Territories
+u1f1f9_1f1ec	flag: Togo
+u1f1f9_1f1ed	flag: Thailand
+u1f1f9_1f1ef	flag: Tajikistan
+u1f1f9_1f1f0	flag: Tokelau
+u1f1f9_1f1f1	flag: Timor-Leste
+u1f1f9_1f1f2	flag: Turkmenistan
+u1f1f9_1f1f3	flag: Tunisia
+u1f1f9_1f1f4	flag: Tonga
+u1f1f9_1f1f7	flag: Turkey
+u1f1f9_1f1f9	flag: Trinidad & Tobago
+u1f1f9_1f1fb	flag: Tuvalu
+u1f1f9_1f1fc	flag: Taiwan
+u1f1f9_1f1ff	flag: Tanzania
+u1f1fa_1f1e6	flag: Ukraine
+u1f1fa_1f1ec	flag: Uganda
+u1f1fa_1f1f2	flag: U.S. Outlying Islands
+u1f1fa_1f1f3	flag: United Nations
+u1f1fa_1f1f8	flag: United States
+u1f1fa_1f1fe	flag: Uruguay
+u1f1fa_1f1ff	flag: Uzbekistan
+u1f1fb_1f1e6	flag: Vatican City
+u1f1fb_1f1e8	flag: St. Vincent & Grenadines
+u1f1fb_1f1ea	flag: Venezuela
+u1f1fb_1f1ec	flag: British Virgin Islands
+u1f1fb_1f1ee	flag: U.S. Virgin Islands
+u1f1fb_1f1f3	flag: Vietnam
+u1f1fb_1f1fa	flag: Vanuatu
+u1f1fc_1f1eb	flag: Wallis & Futuna
+u1f1fc_1f1f8	flag: Samoa
+u1f1fd_1f1f0	flag: Kosovo
+u1f1fe_1f1ea	flag: Yemen
+u1f1fe_1f1f9	flag: Mayotte
+u1f1ff_1f1e6	flag: South Africa
+u1f1ff_1f1f2	flag: Zambia
+u1f1ff_1f1fc	flag: Zimbabwe
+u1f201	Japanese “here” button
+u1f202	Japanese “service charge” button
+u1f21a	Japanese “free of charge” button
+u1f22f	Japanese “reserved” button
+u1f232	Japanese “prohibited” button
+u1f233	Japanese “vacancy” button
+u1f234	Japanese “passing grade” button
+u1f235	Japanese “no vacancy” button
+u1f236	Japanese “not free of charge” button
+u1f237	Japanese “monthly amount” button
+u1f238	Japanese “application” button
+u1f239	Japanese “discount” button
+u1f23a	Japanese “open for business” button
+u1f250	Japanese “bargain” button
+u1f251	Japanese “acceptable” button
+u1f300	cyclone
+u1f301	foggy
+u1f302	closed umbrella
+u1f303	night with stars
+u1f304	sunrise over mountains
+u1f305	sunrise
+u1f306	cityscape at dusk
+u1f307	sunset
+u1f308	rainbow
+u1f309	bridge at night
+u1f30a	water wave
+u1f30b	volcano
+u1f30c	milky way
+u1f30d	globe showing Europe-Africa
+u1f30e	globe showing Americas
+u1f30f	globe showing Asia-Australia
+u1f310	globe with meridians
+u1f311	new moon
+u1f312	waxing crescent moon
+u1f313	first quarter moon
+u1f314	waxing gibbous moon
+u1f315	full moon
+u1f316	waning gibbous moon
+u1f317	last quarter moon
+u1f318	waning crescent moon
+u1f319	crescent moon
+u1f31a	new moon face
+u1f31b	first quarter moon face
+u1f31c	last quarter moon face
+u1f31d	full moon face
+u1f31e	sun with face
+u1f31f	glowing star
+u1f320	shooting star
+u1f321	thermometer
+u1f324	sun behind small cloud
+u1f325	sun behind large cloud
+u1f326	sun behind rain cloud
+u1f327	cloud with rain
+u1f328	cloud with snow
+u1f329	cloud with lightning
+u1f32a	tornado
+u1f32b	fog
+u1f32c	wind face
+u1f32d	hot dog
+u1f32e	taco
+u1f32f	burrito
+u1f330	chestnut
+u1f331	seedling
+u1f332	evergreen tree
+u1f333	deciduous tree
+u1f334	palm tree
+u1f335	cactus
+u1f336	hot pepper
+u1f337	tulip
+u1f338	cherry blossom
+u1f339	rose
+u1f33a	hibiscus
+u1f33b	sunflower
+u1f33c	blossom
+u1f33d	ear of corn
+u1f33e	sheaf of rice
+u1f33f	herb
+u1f340	four leaf clover
+u1f341	maple leaf
+u1f342	fallen leaf
+u1f343	leaf fluttering in wind
+u1f344	mushroom
+u1f345	tomato
+u1f346	eggplant
+u1f347	grapes
+u1f348	melon
+u1f349	watermelon
+u1f34a	tangerine
+u1f34b	lemon
+u1f34c	banana
+u1f34d	pineapple
+u1f34e	red apple
+u1f34f	green apple
+u1f350	pear
+u1f351	peach
+u1f352	cherries
+u1f353	strawberry
+u1f354	hamburger
+u1f355	pizza
+u1f356	meat on bone
+u1f357	poultry leg
+u1f358	rice cracker
+u1f359	rice ball
+u1f35a	cooked rice
+u1f35b	curry rice
+u1f35c	steaming bowl
+u1f35d	spaghetti
+u1f35e	bread
+u1f35f	french fries
+u1f360	roasted sweet potato
+u1f361	dango
+u1f362	oden
+u1f363	sushi
+u1f364	fried shrimp
+u1f365	fish cake with swirl
+u1f366	soft ice cream
+u1f367	shaved ice
+u1f368	ice cream
+u1f369	doughnut
+u1f36a	cookie
+u1f36b	chocolate bar
+u1f36c	candy
+u1f36d	lollipop
+u1f36e	custard
+u1f36f	honey pot
+u1f370	shortcake
+u1f371	bento box
+u1f372	pot of food
+u1f373	cooking
+u1f374	fork and knife
+u1f375	teacup without handle
+u1f376	sake
+u1f377	wine glass
+u1f378	cocktail glass
+u1f379	tropical drink
+u1f37a	beer mug
+u1f37b	clinking beer mugs
+u1f37c	baby bottle
+u1f37d	fork and knife with plate
+u1f37e	bottle with popping cork
+u1f37f	popcorn
+u1f380	ribbon
+u1f381	wrapped gift
+u1f382	birthday cake
+u1f383	jack-o-lantern
+u1f384	Christmas tree
+u1f385	Santa Claus
+u1f385_1f3fb	Santa Claus: light skin tone
+u1f385_1f3fc	Santa Claus: medium-light skin tone
+u1f385_1f3fd	Santa Claus: medium skin tone
+u1f385_1f3fe	Santa Claus: medium-dark skin tone
+u1f385_1f3ff	Santa Claus: dark skin tone
+u1f386	fireworks
+u1f387	sparkler
+u1f388	balloon
+u1f389	party popper
+u1f38a	confetti ball
+u1f38b	tanabata tree
+u1f38c	crossed flags
+u1f38d	pine decoration
+u1f38e	Japanese dolls
+u1f38f	carp streamer
+u1f390	wind chime
+u1f391	moon viewing ceremony
+u1f392	backpack
+u1f393	graduation cap
+u1f396	military medal
+u1f397	reminder ribbon
+u1f399	studio microphone
+u1f39a	level slider
+u1f39b	control knobs
+u1f39e	film frames
+u1f39f	admission tickets
+u1f3a0	carousel horse
+u1f3a1	ferris wheel
+u1f3a2	roller coaster
+u1f3a3	fishing pole
+u1f3a4	microphone
+u1f3a5	movie camera
+u1f3a6	cinema
+u1f3a7	headphone
+u1f3a8	artist palette
+u1f3a9	top hat
+u1f3aa	circus tent
+u1f3ab	ticket
+u1f3ac	clapper board
+u1f3ad	performing arts
+u1f3ae	video game
+u1f3af	direct hit
+u1f3b0	slot machine
+u1f3b1	pool 8 ball
+u1f3b2	game die
+u1f3b3	bowling
+u1f3b4	flower playing cards
+u1f3b5	musical note
+u1f3b6	musical notes
+u1f3b7	saxophone
+u1f3b8	guitar
+u1f3b9	musical keyboard
+u1f3ba	trumpet
+u1f3bb	violin
+u1f3bc	musical score
+u1f3bd	running shirt
+u1f3be	tennis
+u1f3bf	skis
+u1f3c0	basketball
+u1f3c1	chequered flag
+u1f3c2	snowboarder
+u1f3c2_1f3fb	snowboarder: light skin tone
+u1f3c2_1f3fc	snowboarder: medium-light skin tone
+u1f3c2_1f3fd	snowboarder: medium skin tone
+u1f3c2_1f3fe	snowboarder: medium-dark skin tone
+u1f3c2_1f3ff	snowboarder: dark skin tone
+u1f3c3	person running
+u1f3c3_1f3fb	person running: light skin tone
+u1f3c3_1f3fb_200d_2640	woman running: light skin tone
+u1f3c3_1f3fb_200d_2642	man running: light skin tone
+u1f3c3_1f3fc	person running: medium-light skin tone
+u1f3c3_1f3fc_200d_2640	woman running: medium-light skin tone
+u1f3c3_1f3fc_200d_2642	man running: medium-light skin tone
+u1f3c3_1f3fd	person running: medium skin tone
+u1f3c3_1f3fd_200d_2640	woman running: medium skin tone
+u1f3c3_1f3fd_200d_2642	man running: medium skin tone
+u1f3c3_1f3fe	person running: medium-dark skin tone
+u1f3c3_1f3fe_200d_2640	woman running: medium-dark skin tone
+u1f3c3_1f3fe_200d_2642	man running: medium-dark skin tone
+u1f3c3_1f3ff	person running: dark skin tone
+u1f3c3_1f3ff_200d_2640	woman running: dark skin tone
+u1f3c3_1f3ff_200d_2642	man running: dark skin tone
+u1f3c3_200d_2640	woman running
+u1f3c3_200d_2642	man running
+u1f3c4	person surfing
+u1f3c4_1f3fb	person surfing: light skin tone
+u1f3c4_1f3fb_200d_2640	woman surfing: light skin tone
+u1f3c4_1f3fb_200d_2642	man surfing: light skin tone
+u1f3c4_1f3fc	person surfing: medium-light skin tone
+u1f3c4_1f3fc_200d_2640	woman surfing: medium-light skin tone
+u1f3c4_1f3fc_200d_2642	man surfing: medium-light skin tone
+u1f3c4_1f3fd	person surfing: medium skin tone
+u1f3c4_1f3fd_200d_2640	woman surfing: medium skin tone
+u1f3c4_1f3fd_200d_2642	man surfing: medium skin tone
+u1f3c4_1f3fe	person surfing: medium-dark skin tone
+u1f3c4_1f3fe_200d_2640	woman surfing: medium-dark skin tone
+u1f3c4_1f3fe_200d_2642	man surfing: medium-dark skin tone
+u1f3c4_1f3ff	person surfing: dark skin tone
+u1f3c4_1f3ff_200d_2640	woman surfing: dark skin tone
+u1f3c4_1f3ff_200d_2642	man surfing: dark skin tone
+u1f3c4_200d_2640	woman surfing
+u1f3c4_200d_2642	man surfing
+u1f3c5	sports medal
+u1f3c6	trophy
+u1f3c7	horse racing
+u1f3c7_1f3fb	horse racing: light skin tone
+u1f3c7_1f3fc	horse racing: medium-light skin tone
+u1f3c7_1f3fd	horse racing: medium skin tone
+u1f3c7_1f3fe	horse racing: medium-dark skin tone
+u1f3c7_1f3ff	horse racing: dark skin tone
+u1f3c8	american football
+u1f3c9	rugby football
+u1f3ca	person swimming
+u1f3ca_1f3fb	person swimming: light skin tone
+u1f3ca_1f3fb_200d_2640	woman swimming: light skin tone
+u1f3ca_1f3fb_200d_2642	man swimming: light skin tone
+u1f3ca_1f3fc	person swimming: medium-light skin tone
+u1f3ca_1f3fc_200d_2640	woman swimming: medium-light skin tone
+u1f3ca_1f3fc_200d_2642	man swimming: medium-light skin tone
+u1f3ca_1f3fd	person swimming: medium skin tone
+u1f3ca_1f3fd_200d_2640	woman swimming: medium skin tone
+u1f3ca_1f3fd_200d_2642	man swimming: medium skin tone
+u1f3ca_1f3fe	person swimming: medium-dark skin tone
+u1f3ca_1f3fe_200d_2640	woman swimming: medium-dark skin tone
+u1f3ca_1f3fe_200d_2642	man swimming: medium-dark skin tone
+u1f3ca_1f3ff	person swimming: dark skin tone
+u1f3ca_1f3ff_200d_2640	woman swimming: dark skin tone
+u1f3ca_1f3ff_200d_2642	man swimming: dark skin tone
+u1f3ca_200d_2640	woman swimming
+u1f3ca_200d_2642	man swimming
+u1f3cb	person lifting weights
+u1f3cb_1f3fb	person lifting weights: light skin tone
+u1f3cb_1f3fb_200d_2640	woman lifting weights: light skin tone
+u1f3cb_1f3fb_200d_2642	man lifting weights: light skin tone
+u1f3cb_1f3fc	person lifting weights: medium-light skin tone
+u1f3cb_1f3fc_200d_2640	woman lifting weights: medium-light skin tone
+u1f3cb_1f3fc_200d_2642	man lifting weights: medium-light skin tone
+u1f3cb_1f3fd	person lifting weights: medium skin tone
+u1f3cb_1f3fd_200d_2640	woman lifting weights: medium skin tone
+u1f3cb_1f3fd_200d_2642	man lifting weights: medium skin tone
+u1f3cb_1f3fe	person lifting weights: medium-dark skin tone
+u1f3cb_1f3fe_200d_2640	woman lifting weights: medium-dark skin tone
+u1f3cb_1f3fe_200d_2642	man lifting weights: medium-dark skin tone
+u1f3cb_1f3ff	person lifting weights: dark skin tone
+u1f3cb_1f3ff_200d_2640	woman lifting weights: dark skin tone
+u1f3cb_1f3ff_200d_2642	man lifting weights: dark skin tone
+u1f3cb_200d_2640	woman lifting weights
+u1f3cb_200d_2642	man lifting weights
+u1f3cc	person golfing
+u1f3cc_1f3fb	person golfing: light skin tone
+u1f3cc_1f3fb_200d_2640	woman golfing: light skin tone
+u1f3cc_1f3fb_200d_2642	man golfing: light skin tone
+u1f3cc_1f3fc	person golfing: medium-light skin tone
+u1f3cc_1f3fc_200d_2640	woman golfing: medium-light skin tone
+u1f3cc_1f3fc_200d_2642	man golfing: medium-light skin tone
+u1f3cc_1f3fd	person golfing: medium skin tone
+u1f3cc_1f3fd_200d_2640	woman golfing: medium skin tone
+u1f3cc_1f3fd_200d_2642	man golfing: medium skin tone
+u1f3cc_1f3fe	person golfing: medium-dark skin tone
+u1f3cc_1f3fe_200d_2640	woman golfing: medium-dark skin tone
+u1f3cc_1f3fe_200d_2642	man golfing: medium-dark skin tone
+u1f3cc_1f3ff	person golfing: dark skin tone
+u1f3cc_1f3ff_200d_2640	woman golfing: dark skin tone
+u1f3cc_1f3ff_200d_2642	man golfing: dark skin tone
+u1f3cc_200d_2640	woman golfing
+u1f3cc_200d_2642	man golfing
+u1f3cd	motorcycle
+u1f3ce	racing car
+u1f3cf	cricket game
+u1f3d0	volleyball
+u1f3d1	field hockey
+u1f3d2	ice hockey
+u1f3d3	ping pong
+u1f3d4	snow-capped mountain
+u1f3d5	camping
+u1f3d6	beach with umbrella
+u1f3d7	building construction
+u1f3d8	houses
+u1f3d9	cityscape
+u1f3da	derelict house
+u1f3db	classical building
+u1f3dc	desert
+u1f3dd	desert island
+u1f3de	national park
+u1f3df	stadium
+u1f3e0	house
+u1f3e1	house with garden
+u1f3e2	office building
+u1f3e3	Japanese post office
+u1f3e4	post office
+u1f3e5	hospital
+u1f3e6	bank
+u1f3e7	ATM sign
+u1f3e8	hotel
+u1f3e9	love hotel
+u1f3ea	convenience store
+u1f3eb	school
+u1f3ec	department store
+u1f3ed	factory
+u1f3ee	red paper lantern
+u1f3ef	Japanese castle
+u1f3f0	castle
+u1f3f3	white flag
+u1f3f3_200d_1f308	rainbow flag
+u1f3f4	black flag
+u1f3f4_200d_2620	pirate flag
+u1f3f4_e0067_e0062_e0065_e006e_e0067_e007f	flag: England
+u1f3f4_e0067_e0062_e0073_e0063_e0074_e007f	flag: Scotland
+u1f3f4_e0067_e0062_e0077_e006c_e0073_e007f	flag: Wales
+u1f3f5	rosette
+u1f3f7	label
+u1f3f8	badminton
+u1f3f9	bow and arrow
+u1f3fa	amphora
+u1f3fb	light skin tone
+u1f3fc	medium-light skin tone
+u1f3fd	medium skin tone
+u1f3fe	medium-dark skin tone
+u1f3ff	dark skin tone
+u1f400	rat
+u1f401	mouse
+u1f402	ox
+u1f403	water buffalo
+u1f404	cow
+u1f405	tiger
+u1f406	leopard
+u1f407	rabbit
+u1f408	cat
+u1f409	dragon
+u1f40a	crocodile
+u1f40b	whale
+u1f40c	snail
+u1f40d	snake
+u1f40e	horse
+u1f40f	ram
+u1f410	goat
+u1f411	ewe
+u1f412	monkey
+u1f413	rooster
+u1f414	chicken
+u1f415	dog
+u1f415_200d_1f9ba	service dog
+u1f416	pig
+u1f417	boar
+u1f418	elephant
+u1f419	octopus
+u1f41a	spiral shell
+u1f41b	bug
+u1f41c	ant
+u1f41d	honeybee
+u1f41e	lady beetle
+u1f41f	fish
+u1f420	tropical fish
+u1f421	blowfish
+u1f422	turtle
+u1f423	hatching chick
+u1f424	baby chick
+u1f425	front-facing baby chick
+u1f426	bird
+u1f427	penguin
+u1f428	koala
+u1f429	poodle
+u1f42a	camel
+u1f42b	two-hump camel
+u1f42c	dolphin
+u1f42d	mouse face
+u1f42e	cow face
+u1f42f	tiger face
+u1f430	rabbit face
+u1f431	cat face
+u1f432	dragon face
+u1f433	spouting whale
+u1f434	horse face
+u1f435	monkey face
+u1f436	dog face
+u1f437	pig face
+u1f438	frog
+u1f439	hamster
+u1f43a	wolf
+u1f43b	bear
+u1f43c	panda
+u1f43d	pig nose
+u1f43e	paw prints
+u1f43f	chipmunk
+u1f440	eyes
+u1f441	eye
+u1f441_200d_1f5e8	eye in speech bubble
+u1f442	ear
+u1f442_1f3fb	ear: light skin tone
+u1f442_1f3fc	ear: medium-light skin tone
+u1f442_1f3fd	ear: medium skin tone
+u1f442_1f3fe	ear: medium-dark skin tone
+u1f442_1f3ff	ear: dark skin tone
+u1f443	nose
+u1f443_1f3fb	nose: light skin tone
+u1f443_1f3fc	nose: medium-light skin tone
+u1f443_1f3fd	nose: medium skin tone
+u1f443_1f3fe	nose: medium-dark skin tone
+u1f443_1f3ff	nose: dark skin tone
+u1f444	mouth
+u1f445	tongue
+u1f446	backhand index pointing up
+u1f446_1f3fb	backhand index pointing up: light skin tone
+u1f446_1f3fc	backhand index pointing up: medium-light skin tone
+u1f446_1f3fd	backhand index pointing up: medium skin tone
+u1f446_1f3fe	backhand index pointing up: medium-dark skin tone
+u1f446_1f3ff	backhand index pointing up: dark skin tone
+u1f447	backhand index pointing down
+u1f447_1f3fb	backhand index pointing down: light skin tone
+u1f447_1f3fc	backhand index pointing down: medium-light skin tone
+u1f447_1f3fd	backhand index pointing down: medium skin tone
+u1f447_1f3fe	backhand index pointing down: medium-dark skin tone
+u1f447_1f3ff	backhand index pointing down: dark skin tone
+u1f448	backhand index pointing left
+u1f448_1f3fb	backhand index pointing left: light skin tone
+u1f448_1f3fc	backhand index pointing left: medium-light skin tone
+u1f448_1f3fd	backhand index pointing left: medium skin tone
+u1f448_1f3fe	backhand index pointing left: medium-dark skin tone
+u1f448_1f3ff	backhand index pointing left: dark skin tone
+u1f449	backhand index pointing right
+u1f449_1f3fb	backhand index pointing right: light skin tone
+u1f449_1f3fc	backhand index pointing right: medium-light skin tone
+u1f449_1f3fd	backhand index pointing right: medium skin tone
+u1f449_1f3fe	backhand index pointing right: medium-dark skin tone
+u1f449_1f3ff	backhand index pointing right: dark skin tone
+u1f44a	oncoming fist
+u1f44a_1f3fb	oncoming fist: light skin tone
+u1f44a_1f3fc	oncoming fist: medium-light skin tone
+u1f44a_1f3fd	oncoming fist: medium skin tone
+u1f44a_1f3fe	oncoming fist: medium-dark skin tone
+u1f44a_1f3ff	oncoming fist: dark skin tone
+u1f44b	waving hand
+u1f44b_1f3fb	waving hand: light skin tone
+u1f44b_1f3fc	waving hand: medium-light skin tone
+u1f44b_1f3fd	waving hand: medium skin tone
+u1f44b_1f3fe	waving hand: medium-dark skin tone
+u1f44b_1f3ff	waving hand: dark skin tone
+u1f44c	OK hand
+u1f44c_1f3fb	OK hand: light skin tone
+u1f44c_1f3fc	OK hand: medium-light skin tone
+u1f44c_1f3fd	OK hand: medium skin tone
+u1f44c_1f3fe	OK hand: medium-dark skin tone
+u1f44c_1f3ff	OK hand: dark skin tone
+u1f44d	thumbs up
+u1f44d_1f3fb	thumbs up: light skin tone
+u1f44d_1f3fc	thumbs up: medium-light skin tone
+u1f44d_1f3fd	thumbs up: medium skin tone
+u1f44d_1f3fe	thumbs up: medium-dark skin tone
+u1f44d_1f3ff	thumbs up: dark skin tone
+u1f44e	thumbs down
+u1f44e_1f3fb	thumbs down: light skin tone
+u1f44e_1f3fc	thumbs down: medium-light skin tone
+u1f44e_1f3fd	thumbs down: medium skin tone
+u1f44e_1f3fe	thumbs down: medium-dark skin tone
+u1f44e_1f3ff	thumbs down: dark skin tone
+u1f44f	clapping hands
+u1f44f_1f3fb	clapping hands: light skin tone
+u1f44f_1f3fc	clapping hands: medium-light skin tone
+u1f44f_1f3fd	clapping hands: medium skin tone
+u1f44f_1f3fe	clapping hands: medium-dark skin tone
+u1f44f_1f3ff	clapping hands: dark skin tone
+u1f450	open hands
+u1f450_1f3fb	open hands: light skin tone
+u1f450_1f3fc	open hands: medium-light skin tone
+u1f450_1f3fd	open hands: medium skin tone
+u1f450_1f3fe	open hands: medium-dark skin tone
+u1f450_1f3ff	open hands: dark skin tone
+u1f451	crown
+u1f452	woman’s hat
+u1f453	glasses
+u1f454	necktie
+u1f455	t-shirt
+u1f456	jeans
+u1f457	dress
+u1f458	kimono
+u1f459	bikini
+u1f45a	woman’s clothes
+u1f45b	purse
+u1f45c	handbag
+u1f45d	clutch bag
+u1f45e	man’s shoe
+u1f45f	running shoe
+u1f460	high-heeled shoe
+u1f461	woman’s sandal
+u1f462	woman’s boot
+u1f463	footprints
+u1f464	bust in silhouette
+u1f465	busts in silhouette
+u1f466	boy
+u1f466_1f3fb	boy: light skin tone
+u1f466_1f3fc	boy: medium-light skin tone
+u1f466_1f3fd	boy: medium skin tone
+u1f466_1f3fe	boy: medium-dark skin tone
+u1f466_1f3ff	boy: dark skin tone
+u1f467	girl
+u1f467_1f3fb	girl: light skin tone
+u1f467_1f3fc	girl: medium-light skin tone
+u1f467_1f3fd	girl: medium skin tone
+u1f467_1f3fe	girl: medium-dark skin tone
+u1f467_1f3ff	girl: dark skin tone
+u1f468	man
+u1f468_1f3fb	man: light skin tone
+u1f468_1f3fb_200d_1f33e	man farmer: light skin tone
+u1f468_1f3fb_200d_1f373	man cook: light skin tone
+u1f468_1f3fb_200d_1f393	man student: light skin tone
+u1f468_1f3fb_200d_1f3a4	man singer: light skin tone
+u1f468_1f3fb_200d_1f3a8	man artist: light skin tone
+u1f468_1f3fb_200d_1f3eb	man teacher: light skin tone
+u1f468_1f3fb_200d_1f3ed	man factory worker: light skin tone
+u1f468_1f3fb_200d_1f4bb	man technologist: light skin tone
+u1f468_1f3fb_200d_1f4bc	man office worker: light skin tone
+u1f468_1f3fb_200d_1f527	man mechanic: light skin tone
+u1f468_1f3fb_200d_1f52c	man scientist: light skin tone
+u1f468_1f3fb_200d_1f680	man astronaut: light skin tone
+u1f468_1f3fb_200d_1f692	man firefighter: light skin tone
+u1f468_1f3fb_200d_1f91d_200d_1f468_1f3fc	men holding hands: light skin tone, medium-light skin tone
+u1f468_1f3fb_200d_1f91d_200d_1f468_1f3fd	men holding hands: light skin tone, medium skin tone
+u1f468_1f3fb_200d_1f91d_200d_1f468_1f3fe	men holding hands: light skin tone, medium-dark skin tone
+u1f468_1f3fb_200d_1f91d_200d_1f468_1f3ff	men holding hands: light skin tone, dark skin tone
+u1f468_1f3fb_200d_1f9af	man with probing cane: light skin tone
+u1f468_1f3fb_200d_1f9b0	man: light skin tone, red hair
+u1f468_1f3fb_200d_1f9b1	man: light skin tone, curly hair
+u1f468_1f3fb_200d_1f9b2	man: light skin tone, bald
+u1f468_1f3fb_200d_1f9b3	man: light skin tone, white hair
+u1f468_1f3fb_200d_1f9bc	man in motorized wheelchair: light skin tone
+u1f468_1f3fb_200d_1f9bd	man in manual wheelchair: light skin tone
+u1f468_1f3fb_200d_2695	man health worker: light skin tone
+u1f468_1f3fb_200d_2696	man judge: light skin tone
+u1f468_1f3fb_200d_2708	man pilot: light skin tone
+u1f468_1f3fc	man: medium-light skin tone
+u1f468_1f3fc_200d_1f33e	man farmer: medium-light skin tone
+u1f468_1f3fc_200d_1f373	man cook: medium-light skin tone
+u1f468_1f3fc_200d_1f393	man student: medium-light skin tone
+u1f468_1f3fc_200d_1f3a4	man singer: medium-light skin tone
+u1f468_1f3fc_200d_1f3a8	man artist: medium-light skin tone
+u1f468_1f3fc_200d_1f3eb	man teacher: medium-light skin tone
+u1f468_1f3fc_200d_1f3ed	man factory worker: medium-light skin tone
+u1f468_1f3fc_200d_1f4bb	man technologist: medium-light skin tone
+u1f468_1f3fc_200d_1f4bc	man office worker: medium-light skin tone
+u1f468_1f3fc_200d_1f527	man mechanic: medium-light skin tone
+u1f468_1f3fc_200d_1f52c	man scientist: medium-light skin tone
+u1f468_1f3fc_200d_1f680	man astronaut: medium-light skin tone
+u1f468_1f3fc_200d_1f692	man firefighter: medium-light skin tone
+u1f468_1f3fc_200d_1f91d_200d_1f468_1f3fb	men holding hands: medium-light skin tone, light skin tone
+u1f468_1f3fc_200d_1f91d_200d_1f468_1f3fd	men holding hands: medium-light skin tone, medium skin tone
+u1f468_1f3fc_200d_1f91d_200d_1f468_1f3fe	men holding hands: medium-light skin tone, medium-dark skin tone
+u1f468_1f3fc_200d_1f91d_200d_1f468_1f3ff	men holding hands: medium-light skin tone, dark skin tone
+u1f468_1f3fc_200d_1f9af	man with probing cane: medium-light skin tone
+u1f468_1f3fc_200d_1f9b0	man: medium-light skin tone, red hair
+u1f468_1f3fc_200d_1f9b1	man: medium-light skin tone, curly hair
+u1f468_1f3fc_200d_1f9b2	man: medium-light skin tone, bald
+u1f468_1f3fc_200d_1f9b3	man: medium-light skin tone, white hair
+u1f468_1f3fc_200d_1f9bc	man in motorized wheelchair: medium-light skin tone
+u1f468_1f3fc_200d_1f9bd	man in manual wheelchair: medium-light skin tone
+u1f468_1f3fc_200d_2695	man health worker: medium-light skin tone
+u1f468_1f3fc_200d_2696	man judge: medium-light skin tone
+u1f468_1f3fc_200d_2708	man pilot: medium-light skin tone
+u1f468_1f3fd	man: medium skin tone
+u1f468_1f3fd_200d_1f33e	man farmer: medium skin tone
+u1f468_1f3fd_200d_1f373	man cook: medium skin tone
+u1f468_1f3fd_200d_1f393	man student: medium skin tone
+u1f468_1f3fd_200d_1f3a4	man singer: medium skin tone
+u1f468_1f3fd_200d_1f3a8	man artist: medium skin tone
+u1f468_1f3fd_200d_1f3eb	man teacher: medium skin tone
+u1f468_1f3fd_200d_1f3ed	man factory worker: medium skin tone
+u1f468_1f3fd_200d_1f4bb	man technologist: medium skin tone
+u1f468_1f3fd_200d_1f4bc	man office worker: medium skin tone
+u1f468_1f3fd_200d_1f527	man mechanic: medium skin tone
+u1f468_1f3fd_200d_1f52c	man scientist: medium skin tone
+u1f468_1f3fd_200d_1f680	man astronaut: medium skin tone
+u1f468_1f3fd_200d_1f692	man firefighter: medium skin tone
+u1f468_1f3fd_200d_1f91d_200d_1f468_1f3fb	men holding hands: medium skin tone, light skin tone
+u1f468_1f3fd_200d_1f91d_200d_1f468_1f3fc	men holding hands: medium skin tone, medium-light skin tone
+u1f468_1f3fd_200d_1f91d_200d_1f468_1f3fe	men holding hands: medium skin tone, medium-dark skin tone
+u1f468_1f3fd_200d_1f91d_200d_1f468_1f3ff	men holding hands: medium skin tone, dark skin tone
+u1f468_1f3fd_200d_1f9af	man with probing cane: medium skin tone
+u1f468_1f3fd_200d_1f9b0	man: medium skin tone, red hair
+u1f468_1f3fd_200d_1f9b1	man: medium skin tone, curly hair
+u1f468_1f3fd_200d_1f9b2	man: medium skin tone, bald
+u1f468_1f3fd_200d_1f9b3	man: medium skin tone, white hair
+u1f468_1f3fd_200d_1f9bc	man in motorized wheelchair: medium skin tone
+u1f468_1f3fd_200d_1f9bd	man in manual wheelchair: medium skin tone
+u1f468_1f3fd_200d_2695	man health worker: medium skin tone
+u1f468_1f3fd_200d_2696	man judge: medium skin tone
+u1f468_1f3fd_200d_2708	man pilot: medium skin tone
+u1f468_1f3fe	man: medium-dark skin tone
+u1f468_1f3fe_200d_1f33e	man farmer: medium-dark skin tone
+u1f468_1f3fe_200d_1f373	man cook: medium-dark skin tone
+u1f468_1f3fe_200d_1f393	man student: medium-dark skin tone
+u1f468_1f3fe_200d_1f3a4	man singer: medium-dark skin tone
+u1f468_1f3fe_200d_1f3a8	man artist: medium-dark skin tone
+u1f468_1f3fe_200d_1f3eb	man teacher: medium-dark skin tone
+u1f468_1f3fe_200d_1f3ed	man factory worker: medium-dark skin tone
+u1f468_1f3fe_200d_1f4bb	man technologist: medium-dark skin tone
+u1f468_1f3fe_200d_1f4bc	man office worker: medium-dark skin tone
+u1f468_1f3fe_200d_1f527	man mechanic: medium-dark skin tone
+u1f468_1f3fe_200d_1f52c	man scientist: medium-dark skin tone
+u1f468_1f3fe_200d_1f680	man astronaut: medium-dark skin tone
+u1f468_1f3fe_200d_1f692	man firefighter: medium-dark skin tone
+u1f468_1f3fe_200d_1f91d_200d_1f468_1f3fb	men holding hands: medium-dark skin tone, light skin tone
+u1f468_1f3fe_200d_1f91d_200d_1f468_1f3fc	men holding hands: medium-dark skin tone, medium-light skin tone
+u1f468_1f3fe_200d_1f91d_200d_1f468_1f3fd	men holding hands: medium-dark skin tone, medium skin tone
+u1f468_1f3fe_200d_1f91d_200d_1f468_1f3ff	men holding hands: medium-dark skin tone, dark skin tone
+u1f468_1f3fe_200d_1f9af	man with probing cane: medium-dark skin tone
+u1f468_1f3fe_200d_1f9b0	man: medium-dark skin tone, red hair
+u1f468_1f3fe_200d_1f9b1	man: medium-dark skin tone, curly hair
+u1f468_1f3fe_200d_1f9b2	man: medium-dark skin tone, bald
+u1f468_1f3fe_200d_1f9b3	man: medium-dark skin tone, white hair
+u1f468_1f3fe_200d_1f9bc	man in motorized wheelchair: medium-dark skin tone
+u1f468_1f3fe_200d_1f9bd	man in manual wheelchair: medium-dark skin tone
+u1f468_1f3fe_200d_2695	man health worker: medium-dark skin tone
+u1f468_1f3fe_200d_2696	man judge: medium-dark skin tone
+u1f468_1f3fe_200d_2708	man pilot: medium-dark skin tone
+u1f468_1f3ff	man: dark skin tone
+u1f468_1f3ff_200d_1f33e	man farmer: dark skin tone
+u1f468_1f3ff_200d_1f373	man cook: dark skin tone
+u1f468_1f3ff_200d_1f393	man student: dark skin tone
+u1f468_1f3ff_200d_1f3a4	man singer: dark skin tone
+u1f468_1f3ff_200d_1f3a8	man artist: dark skin tone
+u1f468_1f3ff_200d_1f3eb	man teacher: dark skin tone
+u1f468_1f3ff_200d_1f3ed	man factory worker: dark skin tone
+u1f468_1f3ff_200d_1f4bb	man technologist: dark skin tone
+u1f468_1f3ff_200d_1f4bc	man office worker: dark skin tone
+u1f468_1f3ff_200d_1f527	man mechanic: dark skin tone
+u1f468_1f3ff_200d_1f52c	man scientist: dark skin tone
+u1f468_1f3ff_200d_1f680	man astronaut: dark skin tone
+u1f468_1f3ff_200d_1f692	man firefighter: dark skin tone
+u1f468_1f3ff_200d_1f91d_200d_1f468_1f3fb	men holding hands: dark skin tone, light skin tone
+u1f468_1f3ff_200d_1f91d_200d_1f468_1f3fc	men holding hands: dark skin tone, medium-light skin tone
+u1f468_1f3ff_200d_1f91d_200d_1f468_1f3fd	men holding hands: dark skin tone, medium skin tone
+u1f468_1f3ff_200d_1f91d_200d_1f468_1f3fe	men holding hands: dark skin tone, medium-dark skin tone
+u1f468_1f3ff_200d_1f9af	man with probing cane: dark skin tone
+u1f468_1f3ff_200d_1f9b0	man: dark skin tone, red hair
+u1f468_1f3ff_200d_1f9b1	man: dark skin tone, curly hair
+u1f468_1f3ff_200d_1f9b2	man: dark skin tone, bald
+u1f468_1f3ff_200d_1f9b3	man: dark skin tone, white hair
+u1f468_1f3ff_200d_1f9bc	man in motorized wheelchair: dark skin tone
+u1f468_1f3ff_200d_1f9bd	man in manual wheelchair: dark skin tone
+u1f468_1f3ff_200d_2695	man health worker: dark skin tone
+u1f468_1f3ff_200d_2696	man judge: dark skin tone
+u1f468_1f3ff_200d_2708	man pilot: dark skin tone
+u1f468_200d_1f33e	man farmer
+u1f468_200d_1f373	man cook
+u1f468_200d_1f393	man student
+u1f468_200d_1f3a4	man singer
+u1f468_200d_1f3a8	man artist
+u1f468_200d_1f3eb	man teacher
+u1f468_200d_1f3ed	man factory worker
+u1f468_200d_1f466	family: man, boy
+u1f468_200d_1f466_200d_1f466	family: man, boy, boy
+u1f468_200d_1f467	family: man, girl
+u1f468_200d_1f467_200d_1f466	family: man, girl, boy
+u1f468_200d_1f467_200d_1f467	family: man, girl, girl
+u1f468_200d_1f468_200d_1f466	family: man, man, boy
+u1f468_200d_1f468_200d_1f466_200d_1f466	family: man, man, boy, boy
+u1f468_200d_1f468_200d_1f467	family: man, man, girl
+u1f468_200d_1f468_200d_1f467_200d_1f466	family: man, man, girl, boy
+u1f468_200d_1f468_200d_1f467_200d_1f467	family: man, man, girl, girl
+u1f468_200d_1f469_200d_1f466	family: man, woman, boy
+u1f468_200d_1f469_200d_1f466_200d_1f466	family: man, woman, boy, boy
+u1f468_200d_1f469_200d_1f467	family: man, woman, girl
+u1f468_200d_1f469_200d_1f467_200d_1f466	family: man, woman, girl, boy
+u1f468_200d_1f469_200d_1f467_200d_1f467	family: man, woman, girl, girl
+u1f468_200d_1f4bb	man technologist
+u1f468_200d_1f4bc	man office worker
+u1f468_200d_1f527	man mechanic
+u1f468_200d_1f52c	man scientist
+u1f468_200d_1f680	man astronaut
+u1f468_200d_1f692	man firefighter
+u1f468_200d_1f9af	man with probing cane
+u1f468_200d_1f9b0	man: red hair
+u1f468_200d_1f9b1	man: curly hair
+u1f468_200d_1f9b2	man: bald
+u1f468_200d_1f9b3	man: white hair
+u1f468_200d_1f9bc	man in motorized wheelchair
+u1f468_200d_1f9bd	man in manual wheelchair
+u1f468_200d_2695	man health worker
+u1f468_200d_2696	man judge
+u1f468_200d_2708	man pilot
+u1f468_200d_2764_200d_1f468	couple with heart: man, man
+u1f468_200d_2764_200d_1f48b_200d_1f468	kiss: man, man
+u1f469	woman
+u1f469_1f3fb	woman: light skin tone
+u1f469_1f3fb_200d_1f33e	woman farmer: light skin tone
+u1f469_1f3fb_200d_1f373	woman cook: light skin tone
+u1f469_1f3fb_200d_1f393	woman student: light skin tone
+u1f469_1f3fb_200d_1f3a4	woman singer: light skin tone
+u1f469_1f3fb_200d_1f3a8	woman artist: light skin tone
+u1f469_1f3fb_200d_1f3eb	woman teacher: light skin tone
+u1f469_1f3fb_200d_1f3ed	woman factory worker: light skin tone
+u1f469_1f3fb_200d_1f4bb	woman technologist: light skin tone
+u1f469_1f3fb_200d_1f4bc	woman office worker: light skin tone
+u1f469_1f3fb_200d_1f527	woman mechanic: light skin tone
+u1f469_1f3fb_200d_1f52c	woman scientist: light skin tone
+u1f469_1f3fb_200d_1f680	woman astronaut: light skin tone
+u1f469_1f3fb_200d_1f692	woman firefighter: light skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f468_1f3fc	woman and man holding hands: light skin tone, medium-light skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f468_1f3fd	woman and man holding hands: light skin tone, medium skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f468_1f3fe	woman and man holding hands: light skin tone, medium-dark skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f468_1f3ff	woman and man holding hands: light skin tone, dark skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f469_1f3fc	women holding hands: light skin tone, medium-light skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f469_1f3fd	women holding hands: light skin tone, medium skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f469_1f3fe	women holding hands: light skin tone, medium-dark skin tone
+u1f469_1f3fb_200d_1f91d_200d_1f469_1f3ff	women holding hands: light skin tone, dark skin tone
+u1f469_1f3fb_200d_1f9af	woman with probing cane: light skin tone
+u1f469_1f3fb_200d_1f9b0	woman: light skin tone, red hair
+u1f469_1f3fb_200d_1f9b1	woman: light skin tone, curly hair
+u1f469_1f3fb_200d_1f9b2	woman: light skin tone, bald
+u1f469_1f3fb_200d_1f9b3	woman: light skin tone, white hair
+u1f469_1f3fb_200d_1f9bc	woman in motorized wheelchair: light skin tone
+u1f469_1f3fb_200d_1f9bd	woman in manual wheelchair: light skin tone
+u1f469_1f3fb_200d_2695	woman health worker: light skin tone
+u1f469_1f3fb_200d_2696	woman judge: light skin tone
+u1f469_1f3fb_200d_2708	woman pilot: light skin tone
+u1f469_1f3fc	woman: medium-light skin tone
+u1f469_1f3fc_200d_1f33e	woman farmer: medium-light skin tone
+u1f469_1f3fc_200d_1f373	woman cook: medium-light skin tone
+u1f469_1f3fc_200d_1f393	woman student: medium-light skin tone
+u1f469_1f3fc_200d_1f3a4	woman singer: medium-light skin tone
+u1f469_1f3fc_200d_1f3a8	woman artist: medium-light skin tone
+u1f469_1f3fc_200d_1f3eb	woman teacher: medium-light skin tone
+u1f469_1f3fc_200d_1f3ed	woman factory worker: medium-light skin tone
+u1f469_1f3fc_200d_1f4bb	woman technologist: medium-light skin tone
+u1f469_1f3fc_200d_1f4bc	woman office worker: medium-light skin tone
+u1f469_1f3fc_200d_1f527	woman mechanic: medium-light skin tone
+u1f469_1f3fc_200d_1f52c	woman scientist: medium-light skin tone
+u1f469_1f3fc_200d_1f680	woman astronaut: medium-light skin tone
+u1f469_1f3fc_200d_1f692	woman firefighter: medium-light skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f468_1f3fb	woman and man holding hands: medium-light skin tone, light skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f468_1f3fd	woman and man holding hands: medium-light skin tone, medium skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f468_1f3fe	woman and man holding hands: medium-light skin tone, medium-dark skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f468_1f3ff	woman and man holding hands: medium-light skin tone, dark skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f469_1f3fb	women holding hands: medium-light skin tone, light skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f469_1f3fd	women holding hands: medium-light skin tone, medium skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f469_1f3fe	women holding hands: medium-light skin tone, medium-dark skin tone
+u1f469_1f3fc_200d_1f91d_200d_1f469_1f3ff	women holding hands: medium-light skin tone, dark skin tone
+u1f469_1f3fc_200d_1f9af	woman with probing cane: medium-light skin tone
+u1f469_1f3fc_200d_1f9b0	woman: medium-light skin tone, red hair
+u1f469_1f3fc_200d_1f9b1	woman: medium-light skin tone, curly hair
+u1f469_1f3fc_200d_1f9b2	woman: medium-light skin tone, bald
+u1f469_1f3fc_200d_1f9b3	woman: medium-light skin tone, white hair
+u1f469_1f3fc_200d_1f9bc	woman in motorized wheelchair: medium-light skin tone
+u1f469_1f3fc_200d_1f9bd	woman in manual wheelchair: medium-light skin tone
+u1f469_1f3fc_200d_2695	woman health worker: medium-light skin tone
+u1f469_1f3fc_200d_2696	woman judge: medium-light skin tone
+u1f469_1f3fc_200d_2708	woman pilot: medium-light skin tone
+u1f469_1f3fd	woman: medium skin tone
+u1f469_1f3fd_200d_1f33e	woman farmer: medium skin tone
+u1f469_1f3fd_200d_1f373	woman cook: medium skin tone
+u1f469_1f3fd_200d_1f393	woman student: medium skin tone
+u1f469_1f3fd_200d_1f3a4	woman singer: medium skin tone
+u1f469_1f3fd_200d_1f3a8	woman artist: medium skin tone
+u1f469_1f3fd_200d_1f3eb	woman teacher: medium skin tone
+u1f469_1f3fd_200d_1f3ed	woman factory worker: medium skin tone
+u1f469_1f3fd_200d_1f4bb	woman technologist: medium skin tone
+u1f469_1f3fd_200d_1f4bc	woman office worker: medium skin tone
+u1f469_1f3fd_200d_1f527	woman mechanic: medium skin tone
+u1f469_1f3fd_200d_1f52c	woman scientist: medium skin tone
+u1f469_1f3fd_200d_1f680	woman astronaut: medium skin tone
+u1f469_1f3fd_200d_1f692	woman firefighter: medium skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f468_1f3fb	woman and man holding hands: medium skin tone, light skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f468_1f3fc	woman and man holding hands: medium skin tone, medium-light skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f468_1f3fe	woman and man holding hands: medium skin tone, medium-dark skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f468_1f3ff	woman and man holding hands: medium skin tone, dark skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f469_1f3fb	women holding hands: medium skin tone, light skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f469_1f3fc	women holding hands: medium skin tone, medium-light skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f469_1f3fe	women holding hands: medium skin tone, medium-dark skin tone
+u1f469_1f3fd_200d_1f91d_200d_1f469_1f3ff	women holding hands: medium skin tone, dark skin tone
+u1f469_1f3fd_200d_1f9af	woman with probing cane: medium skin tone
+u1f469_1f3fd_200d_1f9b0	woman: medium skin tone, red hair
+u1f469_1f3fd_200d_1f9b1	woman: medium skin tone, curly hair
+u1f469_1f3fd_200d_1f9b2	woman: medium skin tone, bald
+u1f469_1f3fd_200d_1f9b3	woman: medium skin tone, white hair
+u1f469_1f3fd_200d_1f9bc	woman in motorized wheelchair: medium skin tone
+u1f469_1f3fd_200d_1f9bd	woman in manual wheelchair: medium skin tone
+u1f469_1f3fd_200d_2695	woman health worker: medium skin tone
+u1f469_1f3fd_200d_2696	woman judge: medium skin tone
+u1f469_1f3fd_200d_2708	woman pilot: medium skin tone
+u1f469_1f3fe	woman: medium-dark skin tone
+u1f469_1f3fe_200d_1f33e	woman farmer: medium-dark skin tone
+u1f469_1f3fe_200d_1f373	woman cook: medium-dark skin tone
+u1f469_1f3fe_200d_1f393	woman student: medium-dark skin tone
+u1f469_1f3fe_200d_1f3a4	woman singer: medium-dark skin tone
+u1f469_1f3fe_200d_1f3a8	woman artist: medium-dark skin tone
+u1f469_1f3fe_200d_1f3eb	woman teacher: medium-dark skin tone
+u1f469_1f3fe_200d_1f3ed	woman factory worker: medium-dark skin tone
+u1f469_1f3fe_200d_1f4bb	woman technologist: medium-dark skin tone
+u1f469_1f3fe_200d_1f4bc	woman office worker: medium-dark skin tone
+u1f469_1f3fe_200d_1f527	woman mechanic: medium-dark skin tone
+u1f469_1f3fe_200d_1f52c	woman scientist: medium-dark skin tone
+u1f469_1f3fe_200d_1f680	woman astronaut: medium-dark skin tone
+u1f469_1f3fe_200d_1f692	woman firefighter: medium-dark skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f468_1f3fb	woman and man holding hands: medium-dark skin tone, light skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f468_1f3fc	woman and man holding hands: medium-dark skin tone, medium-light skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f468_1f3fd	woman and man holding hands: medium-dark skin tone, medium skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f468_1f3ff	woman and man holding hands: medium-dark skin tone, dark skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f469_1f3fb	women holding hands: medium-dark skin tone, light skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f469_1f3fc	women holding hands: medium-dark skin tone, medium-light skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f469_1f3fd	women holding hands: medium-dark skin tone, medium skin tone
+u1f469_1f3fe_200d_1f91d_200d_1f469_1f3ff	women holding hands: medium-dark skin tone, dark skin tone
+u1f469_1f3fe_200d_1f9af	woman with probing cane: medium-dark skin tone
+u1f469_1f3fe_200d_1f9b0	woman: medium-dark skin tone, red hair
+u1f469_1f3fe_200d_1f9b1	woman: medium-dark skin tone, curly hair
+u1f469_1f3fe_200d_1f9b2	woman: medium-dark skin tone, bald
+u1f469_1f3fe_200d_1f9b3	woman: medium-dark skin tone, white hair
+u1f469_1f3fe_200d_1f9bc	woman in motorized wheelchair: medium-dark skin tone
+u1f469_1f3fe_200d_1f9bd	woman in manual wheelchair: medium-dark skin tone
+u1f469_1f3fe_200d_2695	woman health worker: medium-dark skin tone
+u1f469_1f3fe_200d_2696	woman judge: medium-dark skin tone
+u1f469_1f3fe_200d_2708	woman pilot: medium-dark skin tone
+u1f469_1f3ff	woman: dark skin tone
+u1f469_1f3ff_200d_1f33e	woman farmer: dark skin tone
+u1f469_1f3ff_200d_1f373	woman cook: dark skin tone
+u1f469_1f3ff_200d_1f393	woman student: dark skin tone
+u1f469_1f3ff_200d_1f3a4	woman singer: dark skin tone
+u1f469_1f3ff_200d_1f3a8	woman artist: dark skin tone
+u1f469_1f3ff_200d_1f3eb	woman teacher: dark skin tone
+u1f469_1f3ff_200d_1f3ed	woman factory worker: dark skin tone
+u1f469_1f3ff_200d_1f4bb	woman technologist: dark skin tone
+u1f469_1f3ff_200d_1f4bc	woman office worker: dark skin tone
+u1f469_1f3ff_200d_1f527	woman mechanic: dark skin tone
+u1f469_1f3ff_200d_1f52c	woman scientist: dark skin tone
+u1f469_1f3ff_200d_1f680	woman astronaut: dark skin tone
+u1f469_1f3ff_200d_1f692	woman firefighter: dark skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fb	woman and man holding hands: dark skin tone, light skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fc	woman and man holding hands: dark skin tone, medium-light skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fd	woman and man holding hands: dark skin tone, medium skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f468_1f3fe	woman and man holding hands: dark skin tone, medium-dark skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fb	women holding hands: dark skin tone, light skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fc	women holding hands: dark skin tone, medium-light skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fd	women holding hands: dark skin tone, medium skin tone
+u1f469_1f3ff_200d_1f91d_200d_1f469_1f3fe	women holding hands: dark skin tone, medium-dark skin tone
+u1f469_1f3ff_200d_1f9af	woman with probing cane: dark skin tone
+u1f469_1f3ff_200d_1f9b0	woman: dark skin tone, red hair
+u1f469_1f3ff_200d_1f9b1	woman: dark skin tone, curly hair
+u1f469_1f3ff_200d_1f9b2	woman: dark skin tone, bald
+u1f469_1f3ff_200d_1f9b3	woman: dark skin tone, white hair
+u1f469_1f3ff_200d_1f9bc	woman in motorized wheelchair: dark skin tone
+u1f469_1f3ff_200d_1f9bd	woman in manual wheelchair: dark skin tone
+u1f469_1f3ff_200d_2695	woman health worker: dark skin tone
+u1f469_1f3ff_200d_2696	woman judge: dark skin tone
+u1f469_1f3ff_200d_2708	woman pilot: dark skin tone
+u1f469_200d_1f33e	woman farmer
+u1f469_200d_1f373	woman cook
+u1f469_200d_1f393	woman student
+u1f469_200d_1f3a4	woman singer
+u1f469_200d_1f3a8	woman artist
+u1f469_200d_1f3eb	woman teacher
+u1f469_200d_1f3ed	woman factory worker
+u1f469_200d_1f466	family: woman, boy
+u1f469_200d_1f466_200d_1f466	family: woman, boy, boy
+u1f469_200d_1f467	family: woman, girl
+u1f469_200d_1f467_200d_1f466	family: woman, girl, boy
+u1f469_200d_1f467_200d_1f467	family: woman, girl, girl
+u1f469_200d_1f469_200d_1f466	family: woman, woman, boy
+u1f469_200d_1f469_200d_1f466_200d_1f466	family: woman, woman, boy, boy
+u1f469_200d_1f469_200d_1f467	family: woman, woman, girl
+u1f469_200d_1f469_200d_1f467_200d_1f466	family: woman, woman, girl, boy
+u1f469_200d_1f469_200d_1f467_200d_1f467	family: woman, woman, girl, girl
+u1f469_200d_1f4bb	woman technologist
+u1f469_200d_1f4bc	woman office worker
+u1f469_200d_1f527	woman mechanic
+u1f469_200d_1f52c	woman scientist
+u1f469_200d_1f680	woman astronaut
+u1f469_200d_1f692	woman firefighter
+u1f469_200d_1f9af	woman with probing cane
+u1f469_200d_1f9b0	woman: red hair
+u1f469_200d_1f9b1	woman: curly hair
+u1f469_200d_1f9b2	woman: bald
+u1f469_200d_1f9b3	woman: white hair
+u1f469_200d_1f9bc	woman in motorized wheelchair
+u1f469_200d_1f9bd	woman in manual wheelchair
+u1f469_200d_2695	woman health worker
+u1f469_200d_2696	woman judge
+u1f469_200d_2708	woman pilot
+u1f469_200d_2764_200d_1f468	couple with heart: woman, man
+u1f469_200d_2764_200d_1f469	couple with heart: woman, woman
+u1f469_200d_2764_200d_1f48b_200d_1f468	kiss: woman, man
+u1f469_200d_2764_200d_1f48b_200d_1f469	kiss: woman, woman
+u1f46a	family
+u1f46b	woman and man holding hands
+u1f46b_1f3fb	woman and man holding hands: light skin tone
+u1f46b_1f3fc	woman and man holding hands: medium-light skin tone
+u1f46b_1f3fd	woman and man holding hands: medium skin tone
+u1f46b_1f3fe	woman and man holding hands: medium-dark skin tone
+u1f46b_1f3ff	woman and man holding hands: dark skin tone
+u1f46c	men holding hands
+u1f46c_1f3fb	men holding hands: light skin tone
+u1f46c_1f3fc	men holding hands: medium-light skin tone
+u1f46c_1f3fd	men holding hands: medium skin tone
+u1f46c_1f3fe	men holding hands: medium-dark skin tone
+u1f46c_1f3ff	men holding hands: dark skin tone
+u1f46d	women holding hands
+u1f46d_1f3fb	women holding hands: light skin tone
+u1f46d_1f3fc	women holding hands: medium-light skin tone
+u1f46d_1f3fd	women holding hands: medium skin tone
+u1f46d_1f3fe	women holding hands: medium-dark skin tone
+u1f46d_1f3ff	women holding hands: dark skin tone
+u1f46e	police officer
+u1f46e_1f3fb	police officer: light skin tone
+u1f46e_1f3fb_200d_2640	woman police officer: light skin tone
+u1f46e_1f3fb_200d_2642	man police officer: light skin tone
+u1f46e_1f3fc	police officer: medium-light skin tone
+u1f46e_1f3fc_200d_2640	woman police officer: medium-light skin tone
+u1f46e_1f3fc_200d_2642	man police officer: medium-light skin tone
+u1f46e_1f3fd	police officer: medium skin tone
+u1f46e_1f3fd_200d_2640	woman police officer: medium skin tone
+u1f46e_1f3fd_200d_2642	man police officer: medium skin tone
+u1f46e_1f3fe	police officer: medium-dark skin tone
+u1f46e_1f3fe_200d_2640	woman police officer: medium-dark skin tone
+u1f46e_1f3fe_200d_2642	man police officer: medium-dark skin tone
+u1f46e_1f3ff	police officer: dark skin tone
+u1f46e_1f3ff_200d_2640	woman police officer: dark skin tone
+u1f46e_1f3ff_200d_2642	man police officer: dark skin tone
+u1f46e_200d_2640	woman police officer
+u1f46e_200d_2642	man police officer
+u1f46f	people with bunny ears
+u1f46f_200d_2640	women with bunny ears
+u1f46f_200d_2642	men with bunny ears
+u1f470	bride with veil
+u1f470_1f3fb	bride with veil: light skin tone
+u1f470_1f3fc	bride with veil: medium-light skin tone
+u1f470_1f3fd	bride with veil: medium skin tone
+u1f470_1f3fe	bride with veil: medium-dark skin tone
+u1f470_1f3ff	bride with veil: dark skin tone
+u1f471	person: blond hair
+u1f471_1f3fb	person: light skin tone, blond hair
+u1f471_1f3fb_200d_2640	woman: light skin tone, blond hair
+u1f471_1f3fb_200d_2642	man: light skin tone, blond hair
+u1f471_1f3fc	person: medium-light skin tone, blond hair
+u1f471_1f3fc_200d_2640	woman: medium-light skin tone, blond hair
+u1f471_1f3fc_200d_2642	man: medium-light skin tone, blond hair
+u1f471_1f3fd	person: medium skin tone, blond hair
+u1f471_1f3fd_200d_2640	woman: medium skin tone, blond hair
+u1f471_1f3fd_200d_2642	man: medium skin tone, blond hair
+u1f471_1f3fe	person: medium-dark skin tone, blond hair
+u1f471_1f3fe_200d_2640	woman: medium-dark skin tone, blond hair
+u1f471_1f3fe_200d_2642	man: medium-dark skin tone, blond hair
+u1f471_1f3ff	person: dark skin tone, blond hair
+u1f471_1f3ff_200d_2640	woman: dark skin tone, blond hair
+u1f471_1f3ff_200d_2642	man: dark skin tone, blond hair
+u1f471_200d_2640	woman: blond hair
+u1f471_200d_2642	man: blond hair
+u1f472	man with skullcap
+u1f472_1f3fb	man with skullcap: light skin tone
+u1f472_1f3fc	man with skullcap: medium-light skin tone
+u1f472_1f3fd	man with skullcap: medium skin tone
+u1f472_1f3fe	man with skullcap: medium-dark skin tone
+u1f472_1f3ff	man with skullcap: dark skin tone
+u1f473	person wearing turban
+u1f473_1f3fb	person wearing turban: light skin tone
+u1f473_1f3fb_200d_2640	woman wearing turban: light skin tone
+u1f473_1f3fb_200d_2642	man wearing turban: light skin tone
+u1f473_1f3fc	person wearing turban: medium-light skin tone
+u1f473_1f3fc_200d_2640	woman wearing turban: medium-light skin tone
+u1f473_1f3fc_200d_2642	man wearing turban: medium-light skin tone
+u1f473_1f3fd	person wearing turban: medium skin tone
+u1f473_1f3fd_200d_2640	woman wearing turban: medium skin tone
+u1f473_1f3fd_200d_2642	man wearing turban: medium skin tone
+u1f473_1f3fe	person wearing turban: medium-dark skin tone
+u1f473_1f3fe_200d_2640	woman wearing turban: medium-dark skin tone
+u1f473_1f3fe_200d_2642	man wearing turban: medium-dark skin tone
+u1f473_1f3ff	person wearing turban: dark skin tone
+u1f473_1f3ff_200d_2640	woman wearing turban: dark skin tone
+u1f473_1f3ff_200d_2642	man wearing turban: dark skin tone
+u1f473_200d_2640	woman wearing turban
+u1f473_200d_2642	man wearing turban
+u1f474	old man
+u1f474_1f3fb	old man: light skin tone
+u1f474_1f3fc	old man: medium-light skin tone
+u1f474_1f3fd	old man: medium skin tone
+u1f474_1f3fe	old man: medium-dark skin tone
+u1f474_1f3ff	old man: dark skin tone
+u1f475	old woman
+u1f475_1f3fb	old woman: light skin tone
+u1f475_1f3fc	old woman: medium-light skin tone
+u1f475_1f3fd	old woman: medium skin tone
+u1f475_1f3fe	old woman: medium-dark skin tone
+u1f475_1f3ff	old woman: dark skin tone
+u1f476	baby
+u1f476_1f3fb	baby: light skin tone
+u1f476_1f3fc	baby: medium-light skin tone
+u1f476_1f3fd	baby: medium skin tone
+u1f476_1f3fe	baby: medium-dark skin tone
+u1f476_1f3ff	baby: dark skin tone
+u1f477	construction worker
+u1f477_1f3fb	construction worker: light skin tone
+u1f477_1f3fb_200d_2640	woman construction worker: light skin tone
+u1f477_1f3fb_200d_2642	man construction worker: light skin tone
+u1f477_1f3fc	construction worker: medium-light skin tone
+u1f477_1f3fc_200d_2640	woman construction worker: medium-light skin tone
+u1f477_1f3fc_200d_2642	man construction worker: medium-light skin tone
+u1f477_1f3fd	construction worker: medium skin tone
+u1f477_1f3fd_200d_2640	woman construction worker: medium skin tone
+u1f477_1f3fd_200d_2642	man construction worker: medium skin tone
+u1f477_1f3fe	construction worker: medium-dark skin tone
+u1f477_1f3fe_200d_2640	woman construction worker: medium-dark skin tone
+u1f477_1f3fe_200d_2642	man construction worker: medium-dark skin tone
+u1f477_1f3ff	construction worker: dark skin tone
+u1f477_1f3ff_200d_2640	woman construction worker: dark skin tone
+u1f477_1f3ff_200d_2642	man construction worker: dark skin tone
+u1f477_200d_2640	woman construction worker
+u1f477_200d_2642	man construction worker
+u1f478	princess
+u1f478_1f3fb	princess: light skin tone
+u1f478_1f3fc	princess: medium-light skin tone
+u1f478_1f3fd	princess: medium skin tone
+u1f478_1f3fe	princess: medium-dark skin tone
+u1f478_1f3ff	princess: dark skin tone
+u1f479	ogre
+u1f47a	goblin
+u1f47b	ghost
+u1f47c	baby angel
+u1f47c_1f3fb	baby angel: light skin tone
+u1f47c_1f3fc	baby angel: medium-light skin tone
+u1f47c_1f3fd	baby angel: medium skin tone
+u1f47c_1f3fe	baby angel: medium-dark skin tone
+u1f47c_1f3ff	baby angel: dark skin tone
+u1f47d	alien
+u1f47e	alien monster
+u1f47f	angry face with horns
+u1f480	skull
+u1f481	person tipping hand
+u1f481_1f3fb	person tipping hand: light skin tone
+u1f481_1f3fb_200d_2640	woman tipping hand: light skin tone
+u1f481_1f3fb_200d_2642	man tipping hand: light skin tone
+u1f481_1f3fc	person tipping hand: medium-light skin tone
+u1f481_1f3fc_200d_2640	woman tipping hand: medium-light skin tone
+u1f481_1f3fc_200d_2642	man tipping hand: medium-light skin tone
+u1f481_1f3fd	person tipping hand: medium skin tone
+u1f481_1f3fd_200d_2640	woman tipping hand: medium skin tone
+u1f481_1f3fd_200d_2642	man tipping hand: medium skin tone
+u1f481_1f3fe	person tipping hand: medium-dark skin tone
+u1f481_1f3fe_200d_2640	woman tipping hand: medium-dark skin tone
+u1f481_1f3fe_200d_2642	man tipping hand: medium-dark skin tone
+u1f481_1f3ff	person tipping hand: dark skin tone
+u1f481_1f3ff_200d_2640	woman tipping hand: dark skin tone
+u1f481_1f3ff_200d_2642	man tipping hand: dark skin tone
+u1f481_200d_2640	woman tipping hand
+u1f481_200d_2642	man tipping hand
+u1f482	guard
+u1f482_1f3fb	guard: light skin tone
+u1f482_1f3fb_200d_2640	woman guard: light skin tone
+u1f482_1f3fb_200d_2642	man guard: light skin tone
+u1f482_1f3fc	guard: medium-light skin tone
+u1f482_1f3fc_200d_2640	woman guard: medium-light skin tone
+u1f482_1f3fc_200d_2642	man guard: medium-light skin tone
+u1f482_1f3fd	guard: medium skin tone
+u1f482_1f3fd_200d_2640	woman guard: medium skin tone
+u1f482_1f3fd_200d_2642	man guard: medium skin tone
+u1f482_1f3fe	guard: medium-dark skin tone
+u1f482_1f3fe_200d_2640	woman guard: medium-dark skin tone
+u1f482_1f3fe_200d_2642	man guard: medium-dark skin tone
+u1f482_1f3ff	guard: dark skin tone
+u1f482_1f3ff_200d_2640	woman guard: dark skin tone
+u1f482_1f3ff_200d_2642	man guard: dark skin tone
+u1f482_200d_2640	woman guard
+u1f482_200d_2642	man guard
+u1f483	woman dancing
+u1f483_1f3fb	woman dancing: light skin tone
+u1f483_1f3fc	woman dancing: medium-light skin tone
+u1f483_1f3fd	woman dancing: medium skin tone
+u1f483_1f3fe	woman dancing: medium-dark skin tone
+u1f483_1f3ff	woman dancing: dark skin tone
+u1f484	lipstick
+u1f485	nail polish
+u1f485_1f3fb	nail polish: light skin tone
+u1f485_1f3fc	nail polish: medium-light skin tone
+u1f485_1f3fd	nail polish: medium skin tone
+u1f485_1f3fe	nail polish: medium-dark skin tone
+u1f485_1f3ff	nail polish: dark skin tone
+u1f486	person getting massage
+u1f486_1f3fb	person getting massage: light skin tone
+u1f486_1f3fb_200d_2640	woman getting massage: light skin tone
+u1f486_1f3fb_200d_2642	man getting massage: light skin tone
+u1f486_1f3fc	person getting massage: medium-light skin tone
+u1f486_1f3fc_200d_2640	woman getting massage: medium-light skin tone
+u1f486_1f3fc_200d_2642	man getting massage: medium-light skin tone
+u1f486_1f3fd	person getting massage: medium skin tone
+u1f486_1f3fd_200d_2640	woman getting massage: medium skin tone
+u1f486_1f3fd_200d_2642	man getting massage: medium skin tone
+u1f486_1f3fe	person getting massage: medium-dark skin tone
+u1f486_1f3fe_200d_2640	woman getting massage: medium-dark skin tone
+u1f486_1f3fe_200d_2642	man getting massage: medium-dark skin tone
+u1f486_1f3ff	person getting massage: dark skin tone
+u1f486_1f3ff_200d_2640	woman getting massage: dark skin tone
+u1f486_1f3ff_200d_2642	man getting massage: dark skin tone
+u1f486_200d_2640	woman getting massage
+u1f486_200d_2642	man getting massage
+u1f487	person getting haircut
+u1f487_1f3fb	person getting haircut: light skin tone
+u1f487_1f3fb_200d_2640	woman getting haircut: light skin tone
+u1f487_1f3fb_200d_2642	man getting haircut: light skin tone
+u1f487_1f3fc	person getting haircut: medium-light skin tone
+u1f487_1f3fc_200d_2640	woman getting haircut: medium-light skin tone
+u1f487_1f3fc_200d_2642	man getting haircut: medium-light skin tone
+u1f487_1f3fd	person getting haircut: medium skin tone
+u1f487_1f3fd_200d_2640	woman getting haircut: medium skin tone
+u1f487_1f3fd_200d_2642	man getting haircut: medium skin tone
+u1f487_1f3fe	person getting haircut: medium-dark skin tone
+u1f487_1f3fe_200d_2640	woman getting haircut: medium-dark skin tone
+u1f487_1f3fe_200d_2642	man getting haircut: medium-dark skin tone
+u1f487_1f3ff	person getting haircut: dark skin tone
+u1f487_1f3ff_200d_2640	woman getting haircut: dark skin tone
+u1f487_1f3ff_200d_2642	man getting haircut: dark skin tone
+u1f487_200d_2640	woman getting haircut
+u1f487_200d_2642	man getting haircut
+u1f488	barber pole
+u1f489	syringe
+u1f48a	pill
+u1f48b	kiss mark
+u1f48c	love letter
+u1f48d	ring
+u1f48e	gem stone
+u1f48f	kiss
+u1f490	bouquet
+u1f491	couple with heart
+u1f492	wedding
+u1f493	beating heart
+u1f494	broken heart
+u1f495	two hearts
+u1f496	sparkling heart
+u1f497	growing heart
+u1f498	heart with arrow
+u1f499	blue heart
+u1f49a	green heart
+u1f49b	yellow heart
+u1f49c	purple heart
+u1f49d	heart with ribbon
+u1f49e	revolving hearts
+u1f49f	heart decoration
+u1f4a0	diamond with a dot
+u1f4a1	light bulb
+u1f4a2	anger symbol
+u1f4a3	bomb
+u1f4a4	zzz
+u1f4a5	collision
+u1f4a6	sweat droplets
+u1f4a7	droplet
+u1f4a8	dashing away
+u1f4a9	pile of poo
+u1f4aa	flexed biceps
+u1f4aa_1f3fb	flexed biceps: light skin tone
+u1f4aa_1f3fc	flexed biceps: medium-light skin tone
+u1f4aa_1f3fd	flexed biceps: medium skin tone
+u1f4aa_1f3fe	flexed biceps: medium-dark skin tone
+u1f4aa_1f3ff	flexed biceps: dark skin tone
+u1f4ab	dizzy
+u1f4ac	speech balloon
+u1f4ad	thought balloon
+u1f4ae	white flower
+u1f4af	hundred points
+u1f4b0	money bag
+u1f4b1	currency exchange
+u1f4b2	heavy dollar sign
+u1f4b3	credit card
+u1f4b4	yen banknote
+u1f4b5	dollar banknote
+u1f4b6	euro banknote
+u1f4b7	pound banknote
+u1f4b8	money with wings
+u1f4b9	chart increasing with yen
+u1f4ba	seat
+u1f4bb	laptop
+u1f4bc	briefcase
+u1f4bd	computer disk
+u1f4be	floppy disk
+u1f4bf	optical disk
+u1f4c0	dvd
+u1f4c1	file folder
+u1f4c2	open file folder
+u1f4c3	page with curl
+u1f4c4	page facing up
+u1f4c5	calendar
+u1f4c6	tear-off calendar
+u1f4c7	card index
+u1f4c8	chart increasing
+u1f4c9	chart decreasing
+u1f4ca	bar chart
+u1f4cb	clipboard
+u1f4cc	pushpin
+u1f4cd	round pushpin
+u1f4ce	paperclip
+u1f4cf	straight ruler
+u1f4d0	triangular ruler
+u1f4d1	bookmark tabs
+u1f4d2	ledger
+u1f4d3	notebook
+u1f4d4	notebook with decorative cover
+u1f4d5	closed book
+u1f4d6	open book
+u1f4d7	green book
+u1f4d8	blue book
+u1f4d9	orange book
+u1f4da	books
+u1f4db	name badge
+u1f4dc	scroll
+u1f4dd	memo
+u1f4de	telephone receiver
+u1f4df	pager
+u1f4e0	fax machine
+u1f4e1	satellite antenna
+u1f4e2	loudspeaker
+u1f4e3	megaphone
+u1f4e4	outbox tray
+u1f4e5	inbox tray
+u1f4e6	package
+u1f4e7	e-mail
+u1f4e8	incoming envelope
+u1f4e9	envelope with arrow
+u1f4ea	closed mailbox with lowered flag
+u1f4eb	closed mailbox with raised flag
+u1f4ec	open mailbox with raised flag
+u1f4ed	open mailbox with lowered flag
+u1f4ee	postbox
+u1f4ef	postal horn
+u1f4f0	newspaper
+u1f4f1	mobile phone
+u1f4f2	mobile phone with arrow
+u1f4f3	vibration mode
+u1f4f4	mobile phone off
+u1f4f5	no mobile phones
+u1f4f6	antenna bars
+u1f4f7	camera
+u1f4f8	camera with flash
+u1f4f9	video camera
+u1f4fa	television
+u1f4fb	radio
+u1f4fc	videocassette
+u1f4fd	film projector
+u1f4ff	prayer beads
+u1f500	shuffle tracks button
+u1f501	repeat button
+u1f502	repeat single button
+u1f503	clockwise vertical arrows
+u1f504	counterclockwise arrows button
+u1f505	dim button
+u1f506	bright button
+u1f507	muted speaker
+u1f508	speaker low volume
+u1f509	speaker medium volume
+u1f50a	speaker high volume
+u1f50b	battery
+u1f50c	electric plug
+u1f50d	magnifying glass tilted left
+u1f50e	magnifying glass tilted right
+u1f50f	locked with pen
+u1f510	locked with key
+u1f511	key
+u1f512	locked
+u1f513	unlocked
+u1f514	bell
+u1f515	bell with slash
+u1f516	bookmark
+u1f517	link
+u1f518	radio button
+u1f519	BACK arrow
+u1f51a	END arrow
+u1f51b	ON! arrow
+u1f51c	SOON arrow
+u1f51d	TOP arrow
+u1f51e	no one under eighteen
+u1f51f	keycap: 10
+u1f520	input latin uppercase
+u1f521	input latin lowercase
+u1f522	input numbers
+u1f523	input symbols
+u1f524	input latin letters
+u1f525	fire
+u1f526	flashlight
+u1f527	wrench
+u1f528	hammer
+u1f529	nut and bolt
+u1f52a	kitchen knife
+u1f52b	pistol
+u1f52c	microscope
+u1f52d	telescope
+u1f52e	crystal ball
+u1f52f	dotted six-pointed star
+u1f530	Japanese symbol for beginner
+u1f531	trident emblem
+u1f532	black square button
+u1f533	white square button
+u1f534	red circle
+u1f535	blue circle
+u1f536	large orange diamond
+u1f537	large blue diamond
+u1f538	small orange diamond
+u1f539	small blue diamond
+u1f53a	red triangle pointed up
+u1f53b	red triangle pointed down
+u1f53c	upwards button
+u1f53d	downwards button
+u1f549	om
+u1f54a	dove
+u1f54b	kaaba
+u1f54c	mosque
+u1f54d	synagogue
+u1f54e	menorah
+u1f550	one o’clock
+u1f551	two o’clock
+u1f552	three o’clock
+u1f553	four o’clock
+u1f554	five o’clock
+u1f555	six o’clock
+u1f556	seven o’clock
+u1f557	eight o’clock
+u1f558	nine o’clock
+u1f559	ten o’clock
+u1f55a	eleven o’clock
+u1f55b	twelve o’clock
+u1f55c	one-thirty
+u1f55d	two-thirty
+u1f55e	three-thirty
+u1f55f	four-thirty
+u1f560	five-thirty
+u1f561	six-thirty
+u1f562	seven-thirty
+u1f563	eight-thirty
+u1f564	nine-thirty
+u1f565	ten-thirty
+u1f566	eleven-thirty
+u1f567	twelve-thirty
+u1f56f	candle
+u1f570	mantelpiece clock
+u1f573	hole
+u1f574	man in suit levitating
+u1f574_1f3fb	man in suit levitating: light skin tone
+u1f574_1f3fc	man in suit levitating: medium-light skin tone
+u1f574_1f3fd	man in suit levitating: medium skin tone
+u1f574_1f3fe	man in suit levitating: medium-dark skin tone
+u1f574_1f3ff	man in suit levitating: dark skin tone
+u1f575	detective
+u1f575_1f3fb	detective: light skin tone
+u1f575_1f3fb_200d_2640	woman detective: light skin tone
+u1f575_1f3fb_200d_2642	man detective: light skin tone
+u1f575_1f3fc	detective: medium-light skin tone
+u1f575_1f3fc_200d_2640	woman detective: medium-light skin tone
+u1f575_1f3fc_200d_2642	man detective: medium-light skin tone
+u1f575_1f3fd	detective: medium skin tone
+u1f575_1f3fd_200d_2640	woman detective: medium skin tone
+u1f575_1f3fd_200d_2642	man detective: medium skin tone
+u1f575_1f3fe	detective: medium-dark skin tone
+u1f575_1f3fe_200d_2640	woman detective: medium-dark skin tone
+u1f575_1f3fe_200d_2642	man detective: medium-dark skin tone
+u1f575_1f3ff	detective: dark skin tone
+u1f575_1f3ff_200d_2640	woman detective: dark skin tone
+u1f575_1f3ff_200d_2642	man detective: dark skin tone
+u1f575_200d_2640	woman detective
+u1f575_200d_2642	man detective
+u1f576	sunglasses
+u1f577	spider
+u1f578	spider web
+u1f579	joystick
+u1f57a	man dancing
+u1f57a_1f3fb	man dancing: light skin tone
+u1f57a_1f3fc	man dancing: medium-light skin tone
+u1f57a_1f3fd	man dancing: medium skin tone
+u1f57a_1f3fe	man dancing: medium-dark skin tone
+u1f57a_1f3ff	man dancing: dark skin tone
+u1f587	linked paperclips
+u1f58a	pen
+u1f58b	fountain pen
+u1f58c	paintbrush
+u1f58d	crayon
+u1f590	hand with fingers splayed
+u1f590_1f3fb	hand with fingers splayed: light skin tone
+u1f590_1f3fc	hand with fingers splayed: medium-light skin tone
+u1f590_1f3fd	hand with fingers splayed: medium skin tone
+u1f590_1f3fe	hand with fingers splayed: medium-dark skin tone
+u1f590_1f3ff	hand with fingers splayed: dark skin tone
+u1f595	middle finger
+u1f595_1f3fb	middle finger: light skin tone
+u1f595_1f3fc	middle finger: medium-light skin tone
+u1f595_1f3fd	middle finger: medium skin tone
+u1f595_1f3fe	middle finger: medium-dark skin tone
+u1f595_1f3ff	middle finger: dark skin tone
+u1f596	vulcan salute
+u1f596_1f3fb	vulcan salute: light skin tone
+u1f596_1f3fc	vulcan salute: medium-light skin tone
+u1f596_1f3fd	vulcan salute: medium skin tone
+u1f596_1f3fe	vulcan salute: medium-dark skin tone
+u1f596_1f3ff	vulcan salute: dark skin tone
+u1f5a4	black heart
+u1f5a5	desktop computer
+u1f5a8	printer
+u1f5b1	computer mouse
+u1f5b2	trackball
+u1f5bc	framed picture
+u1f5c2	card index dividers
+u1f5c3	card file box
+u1f5c4	file cabinet
+u1f5d1	wastebasket
+u1f5d2	spiral notepad
+u1f5d3	spiral calendar
+u1f5dc	clamp
+u1f5dd	old key
+u1f5de	rolled-up newspaper
+u1f5e1	dagger
+u1f5e3	speaking head
+u1f5e8	left speech bubble
+u1f5ef	right anger bubble
+u1f5f3	ballot box with ballot
+u1f5fa	world map
+u1f5fb	mount fuji
+u1f5fc	Tokyo tower
+u1f5fd	Statue of Liberty
+u1f5fe	map of Japan
+u1f5ff	moai
+u1f600	grinning face
+u1f601	beaming face with smiling eyes
+u1f602	face with tears of joy
+u1f603	grinning face with big eyes
+u1f604	grinning face with smiling eyes
+u1f605	grinning face with sweat
+u1f606	grinning squinting face
+u1f607	smiling face with halo
+u1f608	smiling face with horns
+u1f609	winking face
+u1f60a	smiling face with smiling eyes
+u1f60b	face savoring food
+u1f60c	relieved face
+u1f60d	smiling face with heart-eyes
+u1f60e	smiling face with sunglasses
+u1f60f	smirking face
+u1f610	neutral face
+u1f611	expressionless face
+u1f612	unamused face
+u1f613	downcast face with sweat
+u1f614	pensive face
+u1f615	confused face
+u1f616	confounded face
+u1f617	kissing face
+u1f618	face blowing a kiss
+u1f619	kissing face with smiling eyes
+u1f61a	kissing face with closed eyes
+u1f61b	face with tongue
+u1f61c	winking face with tongue
+u1f61d	squinting face with tongue
+u1f61e	disappointed face
+u1f61f	worried face
+u1f620	angry face
+u1f621	pouting face
+u1f622	crying face
+u1f623	persevering face
+u1f624	face with steam from nose
+u1f625	sad but relieved face
+u1f626	frowning face with open mouth
+u1f627	anguished face
+u1f628	fearful face
+u1f629	weary face
+u1f62a	sleepy face
+u1f62b	tired face
+u1f62c	grimacing face
+u1f62d	loudly crying face
+u1f62e	face with open mouth
+u1f62f	hushed face
+u1f630	anxious face with sweat
+u1f631	face screaming in fear
+u1f632	astonished face
+u1f633	flushed face
+u1f634	sleeping face
+u1f635	dizzy face
+u1f636	face without mouth
+u1f637	face with medical mask
+u1f638	grinning cat with smiling eyes
+u1f639	cat with tears of joy
+u1f63a	grinning cat
+u1f63b	smiling cat with heart-eyes
+u1f63c	cat with wry smile
+u1f63d	kissing cat
+u1f63e	pouting cat
+u1f63f	crying cat
+u1f640	weary cat
+u1f641	slightly frowning face
+u1f642	slightly smiling face
+u1f643	upside-down face
+u1f644	face with rolling eyes
+u1f645	person gesturing NO
+u1f645_1f3fb	person gesturing NO: light skin tone
+u1f645_1f3fb_200d_2640	woman gesturing NO: light skin tone
+u1f645_1f3fb_200d_2642	man gesturing NO: light skin tone
+u1f645_1f3fc	person gesturing NO: medium-light skin tone
+u1f645_1f3fc_200d_2640	woman gesturing NO: medium-light skin tone
+u1f645_1f3fc_200d_2642	man gesturing NO: medium-light skin tone
+u1f645_1f3fd	person gesturing NO: medium skin tone
+u1f645_1f3fd_200d_2640	woman gesturing NO: medium skin tone
+u1f645_1f3fd_200d_2642	man gesturing NO: medium skin tone
+u1f645_1f3fe	person gesturing NO: medium-dark skin tone
+u1f645_1f3fe_200d_2640	woman gesturing NO: medium-dark skin tone
+u1f645_1f3fe_200d_2642	man gesturing NO: medium-dark skin tone
+u1f645_1f3ff	person gesturing NO: dark skin tone
+u1f645_1f3ff_200d_2640	woman gesturing NO: dark skin tone
+u1f645_1f3ff_200d_2642	man gesturing NO: dark skin tone
+u1f645_200d_2640	woman gesturing NO
+u1f645_200d_2642	man gesturing NO
+u1f646	person gesturing OK
+u1f646_1f3fb	person gesturing OK: light skin tone
+u1f646_1f3fb_200d_2640	woman gesturing OK: light skin tone
+u1f646_1f3fb_200d_2642	man gesturing OK: light skin tone
+u1f646_1f3fc	person gesturing OK: medium-light skin tone
+u1f646_1f3fc_200d_2640	woman gesturing OK: medium-light skin tone
+u1f646_1f3fc_200d_2642	man gesturing OK: medium-light skin tone
+u1f646_1f3fd	person gesturing OK: medium skin tone
+u1f646_1f3fd_200d_2640	woman gesturing OK: medium skin tone
+u1f646_1f3fd_200d_2642	man gesturing OK: medium skin tone
+u1f646_1f3fe	person gesturing OK: medium-dark skin tone
+u1f646_1f3fe_200d_2640	woman gesturing OK: medium-dark skin tone
+u1f646_1f3fe_200d_2642	man gesturing OK: medium-dark skin tone
+u1f646_1f3ff	person gesturing OK: dark skin tone
+u1f646_1f3ff_200d_2640	woman gesturing OK: dark skin tone
+u1f646_1f3ff_200d_2642	man gesturing OK: dark skin tone
+u1f646_200d_2640	woman gesturing OK
+u1f646_200d_2642	man gesturing OK
+u1f647	person bowing
+u1f647_1f3fb	person bowing: light skin tone
+u1f647_1f3fb_200d_2640	woman bowing: light skin tone
+u1f647_1f3fb_200d_2642	man bowing: light skin tone
+u1f647_1f3fc	person bowing: medium-light skin tone
+u1f647_1f3fc_200d_2640	woman bowing: medium-light skin tone
+u1f647_1f3fc_200d_2642	man bowing: medium-light skin tone
+u1f647_1f3fd	person bowing: medium skin tone
+u1f647_1f3fd_200d_2640	woman bowing: medium skin tone
+u1f647_1f3fd_200d_2642	man bowing: medium skin tone
+u1f647_1f3fe	person bowing: medium-dark skin tone
+u1f647_1f3fe_200d_2640	woman bowing: medium-dark skin tone
+u1f647_1f3fe_200d_2642	man bowing: medium-dark skin tone
+u1f647_1f3ff	person bowing: dark skin tone
+u1f647_1f3ff_200d_2640	woman bowing: dark skin tone
+u1f647_1f3ff_200d_2642	man bowing: dark skin tone
+u1f647_200d_2640	woman bowing
+u1f647_200d_2642	man bowing
+u1f648	see-no-evil monkey
+u1f649	hear-no-evil monkey
+u1f64a	speak-no-evil monkey
+u1f64b	person raising hand
+u1f64b_1f3fb	person raising hand: light skin tone
+u1f64b_1f3fb_200d_2640	woman raising hand: light skin tone
+u1f64b_1f3fb_200d_2642	man raising hand: light skin tone
+u1f64b_1f3fc	person raising hand: medium-light skin tone
+u1f64b_1f3fc_200d_2640	woman raising hand: medium-light skin tone
+u1f64b_1f3fc_200d_2642	man raising hand: medium-light skin tone
+u1f64b_1f3fd	person raising hand: medium skin tone
+u1f64b_1f3fd_200d_2640	woman raising hand: medium skin tone
+u1f64b_1f3fd_200d_2642	man raising hand: medium skin tone
+u1f64b_1f3fe	person raising hand: medium-dark skin tone
+u1f64b_1f3fe_200d_2640	woman raising hand: medium-dark skin tone
+u1f64b_1f3fe_200d_2642	man raising hand: medium-dark skin tone
+u1f64b_1f3ff	person raising hand: dark skin tone
+u1f64b_1f3ff_200d_2640	woman raising hand: dark skin tone
+u1f64b_1f3ff_200d_2642	man raising hand: dark skin tone
+u1f64b_200d_2640	woman raising hand
+u1f64b_200d_2642	man raising hand
+u1f64c	raising hands
+u1f64c_1f3fb	raising hands: light skin tone
+u1f64c_1f3fc	raising hands: medium-light skin tone
+u1f64c_1f3fd	raising hands: medium skin tone
+u1f64c_1f3fe	raising hands: medium-dark skin tone
+u1f64c_1f3ff	raising hands: dark skin tone
+u1f64d	person frowning
+u1f64d_1f3fb	person frowning: light skin tone
+u1f64d_1f3fb_200d_2640	woman frowning: light skin tone
+u1f64d_1f3fb_200d_2642	man frowning: light skin tone
+u1f64d_1f3fc	person frowning: medium-light skin tone
+u1f64d_1f3fc_200d_2640	woman frowning: medium-light skin tone
+u1f64d_1f3fc_200d_2642	man frowning: medium-light skin tone
+u1f64d_1f3fd	person frowning: medium skin tone
+u1f64d_1f3fd_200d_2640	woman frowning: medium skin tone
+u1f64d_1f3fd_200d_2642	man frowning: medium skin tone
+u1f64d_1f3fe	person frowning: medium-dark skin tone
+u1f64d_1f3fe_200d_2640	woman frowning: medium-dark skin tone
+u1f64d_1f3fe_200d_2642	man frowning: medium-dark skin tone
+u1f64d_1f3ff	person frowning: dark skin tone
+u1f64d_1f3ff_200d_2640	woman frowning: dark skin tone
+u1f64d_1f3ff_200d_2642	man frowning: dark skin tone
+u1f64d_200d_2640	woman frowning
+u1f64d_200d_2642	man frowning
+u1f64e	person pouting
+u1f64e_1f3fb	person pouting: light skin tone
+u1f64e_1f3fb_200d_2640	woman pouting: light skin tone
+u1f64e_1f3fb_200d_2642	man pouting: light skin tone
+u1f64e_1f3fc	person pouting: medium-light skin tone
+u1f64e_1f3fc_200d_2640	woman pouting: medium-light skin tone
+u1f64e_1f3fc_200d_2642	man pouting: medium-light skin tone
+u1f64e_1f3fd	person pouting: medium skin tone
+u1f64e_1f3fd_200d_2640	woman pouting: medium skin tone
+u1f64e_1f3fd_200d_2642	man pouting: medium skin tone
+u1f64e_1f3fe	person pouting: medium-dark skin tone
+u1f64e_1f3fe_200d_2640	woman pouting: medium-dark skin tone
+u1f64e_1f3fe_200d_2642	man pouting: medium-dark skin tone
+u1f64e_1f3ff	person pouting: dark skin tone
+u1f64e_1f3ff_200d_2640	woman pouting: dark skin tone
+u1f64e_1f3ff_200d_2642	man pouting: dark skin tone
+u1f64e_200d_2640	woman pouting
+u1f64e_200d_2642	man pouting
+u1f64f	folded hands
+u1f64f_1f3fb	folded hands: light skin tone
+u1f64f_1f3fc	folded hands: medium-light skin tone
+u1f64f_1f3fd	folded hands: medium skin tone
+u1f64f_1f3fe	folded hands: medium-dark skin tone
+u1f64f_1f3ff	folded hands: dark skin tone
+u1f680	rocket
+u1f681	helicopter
+u1f682	locomotive
+u1f683	railway car
+u1f684	high-speed train
+u1f685	bullet train
+u1f686	train
+u1f687	metro
+u1f688	light rail
+u1f689	station
+u1f68a	tram
+u1f68b	tram car
+u1f68c	bus
+u1f68d	oncoming bus
+u1f68e	trolleybus
+u1f68f	bus stop
+u1f690	minibus
+u1f691	ambulance
+u1f692	fire engine
+u1f693	police car
+u1f694	oncoming police car
+u1f695	taxi
+u1f696	oncoming taxi
+u1f697	automobile
+u1f698	oncoming automobile
+u1f699	sport utility vehicle
+u1f69a	delivery truck
+u1f69b	articulated lorry
+u1f69c	tractor
+u1f69d	monorail
+u1f69e	mountain railway
+u1f69f	suspension railway
+u1f6a0	mountain cableway
+u1f6a1	aerial tramway
+u1f6a2	ship
+u1f6a3	person rowing boat
+u1f6a3_1f3fb	person rowing boat: light skin tone
+u1f6a3_1f3fb_200d_2640	woman rowing boat: light skin tone
+u1f6a3_1f3fb_200d_2642	man rowing boat: light skin tone
+u1f6a3_1f3fc	person rowing boat: medium-light skin tone
+u1f6a3_1f3fc_200d_2640	woman rowing boat: medium-light skin tone
+u1f6a3_1f3fc_200d_2642	man rowing boat: medium-light skin tone
+u1f6a3_1f3fd	person rowing boat: medium skin tone
+u1f6a3_1f3fd_200d_2640	woman rowing boat: medium skin tone
+u1f6a3_1f3fd_200d_2642	man rowing boat: medium skin tone
+u1f6a3_1f3fe	person rowing boat: medium-dark skin tone
+u1f6a3_1f3fe_200d_2640	woman rowing boat: medium-dark skin tone
+u1f6a3_1f3fe_200d_2642	man rowing boat: medium-dark skin tone
+u1f6a3_1f3ff	person rowing boat: dark skin tone
+u1f6a3_1f3ff_200d_2640	woman rowing boat: dark skin tone
+u1f6a3_1f3ff_200d_2642	man rowing boat: dark skin tone
+u1f6a3_200d_2640	woman rowing boat
+u1f6a3_200d_2642	man rowing boat
+u1f6a4	speedboat
+u1f6a5	horizontal traffic light
+u1f6a6	vertical traffic light
+u1f6a7	construction
+u1f6a8	police car light
+u1f6a9	triangular flag
+u1f6aa	door
+u1f6ab	prohibited
+u1f6ac	cigarette
+u1f6ad	no smoking
+u1f6ae	litter in bin sign
+u1f6af	no littering
+u1f6b0	potable water
+u1f6b1	non-potable water
+u1f6b2	bicycle
+u1f6b3	no bicycles
+u1f6b4	person biking
+u1f6b4_1f3fb	person biking: light skin tone
+u1f6b4_1f3fb_200d_2640	woman biking: light skin tone
+u1f6b4_1f3fb_200d_2642	man biking: light skin tone
+u1f6b4_1f3fc	person biking: medium-light skin tone
+u1f6b4_1f3fc_200d_2640	woman biking: medium-light skin tone
+u1f6b4_1f3fc_200d_2642	man biking: medium-light skin tone
+u1f6b4_1f3fd	person biking: medium skin tone
+u1f6b4_1f3fd_200d_2640	woman biking: medium skin tone
+u1f6b4_1f3fd_200d_2642	man biking: medium skin tone
+u1f6b4_1f3fe	person biking: medium-dark skin tone
+u1f6b4_1f3fe_200d_2640	woman biking: medium-dark skin tone
+u1f6b4_1f3fe_200d_2642	man biking: medium-dark skin tone
+u1f6b4_1f3ff	person biking: dark skin tone
+u1f6b4_1f3ff_200d_2640	woman biking: dark skin tone
+u1f6b4_1f3ff_200d_2642	man biking: dark skin tone
+u1f6b4_200d_2640	woman biking
+u1f6b4_200d_2642	man biking
+u1f6b5	person mountain biking
+u1f6b5_1f3fb	person mountain biking: light skin tone
+u1f6b5_1f3fb_200d_2640	woman mountain biking: light skin tone
+u1f6b5_1f3fb_200d_2642	man mountain biking: light skin tone
+u1f6b5_1f3fc	person mountain biking: medium-light skin tone
+u1f6b5_1f3fc_200d_2640	woman mountain biking: medium-light skin tone
+u1f6b5_1f3fc_200d_2642	man mountain biking: medium-light skin tone
+u1f6b5_1f3fd	person mountain biking: medium skin tone
+u1f6b5_1f3fd_200d_2640	woman mountain biking: medium skin tone
+u1f6b5_1f3fd_200d_2642	man mountain biking: medium skin tone
+u1f6b5_1f3fe	person mountain biking: medium-dark skin tone
+u1f6b5_1f3fe_200d_2640	woman mountain biking: medium-dark skin tone
+u1f6b5_1f3fe_200d_2642	man mountain biking: medium-dark skin tone
+u1f6b5_1f3ff	person mountain biking: dark skin tone
+u1f6b5_1f3ff_200d_2640	woman mountain biking: dark skin tone
+u1f6b5_1f3ff_200d_2642	man mountain biking: dark skin tone
+u1f6b5_200d_2640	woman mountain biking
+u1f6b5_200d_2642	man mountain biking
+u1f6b6	person walking
+u1f6b6_1f3fb	person walking: light skin tone
+u1f6b6_1f3fb_200d_2640	woman walking: light skin tone
+u1f6b6_1f3fb_200d_2642	man walking: light skin tone
+u1f6b6_1f3fc	person walking: medium-light skin tone
+u1f6b6_1f3fc_200d_2640	woman walking: medium-light skin tone
+u1f6b6_1f3fc_200d_2642	man walking: medium-light skin tone
+u1f6b6_1f3fd	person walking: medium skin tone
+u1f6b6_1f3fd_200d_2640	woman walking: medium skin tone
+u1f6b6_1f3fd_200d_2642	man walking: medium skin tone
+u1f6b6_1f3fe	person walking: medium-dark skin tone
+u1f6b6_1f3fe_200d_2640	woman walking: medium-dark skin tone
+u1f6b6_1f3fe_200d_2642	man walking: medium-dark skin tone
+u1f6b6_1f3ff	person walking: dark skin tone
+u1f6b6_1f3ff_200d_2640	woman walking: dark skin tone
+u1f6b6_1f3ff_200d_2642	man walking: dark skin tone
+u1f6b6_200d_2640	woman walking
+u1f6b6_200d_2642	man walking
+u1f6b7	no pedestrians
+u1f6b8	children crossing
+u1f6b9	men’s room
+u1f6ba	women’s room
+u1f6bb	restroom
+u1f6bc	baby symbol
+u1f6bd	toilet
+u1f6be	water closet
+u1f6bf	shower
+u1f6c0	person taking bath
+u1f6c0_1f3fb	person taking bath: light skin tone
+u1f6c0_1f3fc	person taking bath: medium-light skin tone
+u1f6c0_1f3fd	person taking bath: medium skin tone
+u1f6c0_1f3fe	person taking bath: medium-dark skin tone
+u1f6c0_1f3ff	person taking bath: dark skin tone
+u1f6c1	bathtub
+u1f6c2	passport control
+u1f6c3	customs
+u1f6c4	baggage claim
+u1f6c5	left luggage
+u1f6cb	couch and lamp
+u1f6cc	person in bed
+u1f6cc_1f3fb	person in bed: light skin tone
+u1f6cc_1f3fc	person in bed: medium-light skin tone
+u1f6cc_1f3fd	person in bed: medium skin tone
+u1f6cc_1f3fe	person in bed: medium-dark skin tone
+u1f6cc_1f3ff	person in bed: dark skin tone
+u1f6cd	shopping bags
+u1f6ce	bellhop bell
+u1f6cf	bed
+u1f6d0	place of worship
+u1f6d1	stop sign
+u1f6d2	shopping cart
+u1f6d5	hindu temple
+u1f6e0	hammer and wrench
+u1f6e1	shield
+u1f6e2	oil drum
+u1f6e3	motorway
+u1f6e4	railway track
+u1f6e5	motor boat
+u1f6e9	small airplane
+u1f6eb	airplane departure
+u1f6ec	airplane arrival
+u1f6f0	satellite
+u1f6f3	passenger ship
+u1f6f4	kick scooter
+u1f6f5	motor scooter
+u1f6f6	canoe
+u1f6f7	sled
+u1f6f8	flying saucer
+u1f6f9	skateboard
+u1f6fa	auto rickshaw
+u1f7e0	orange circle
+u1f7e1	yellow circle
+u1f7e2	green circle
+u1f7e3	purple circle
+u1f7e4	brown circle
+u1f7e5	red square
+u1f7e6	blue square
+u1f7e7	orange square
+u1f7e8	yellow square
+u1f7e9	green square
+u1f7ea	purple square
+u1f7eb	brown square
+u1f90d	white heart
+u1f90e	brown heart
+u1f90f	pinching hand
+u1f90f_1f3fb	pinching hand: light skin tone
+u1f90f_1f3fc	pinching hand: medium-light skin tone
+u1f90f_1f3fd	pinching hand: medium skin tone
+u1f90f_1f3fe	pinching hand: medium-dark skin tone
+u1f90f_1f3ff	pinching hand: dark skin tone
+u1f910	zipper-mouth face
+u1f911	money-mouth face
+u1f912	face with thermometer
+u1f913	nerd face
+u1f914	thinking face
+u1f915	face with head-bandage
+u1f916	robot
+u1f917	hugging face
+u1f918	sign of the horns
+u1f918_1f3fb	sign of the horns: light skin tone
+u1f918_1f3fc	sign of the horns: medium-light skin tone
+u1f918_1f3fd	sign of the horns: medium skin tone
+u1f918_1f3fe	sign of the horns: medium-dark skin tone
+u1f918_1f3ff	sign of the horns: dark skin tone
+u1f919	call me hand
+u1f919_1f3fb	call me hand: light skin tone
+u1f919_1f3fc	call me hand: medium-light skin tone
+u1f919_1f3fd	call me hand: medium skin tone
+u1f919_1f3fe	call me hand: medium-dark skin tone
+u1f919_1f3ff	call me hand: dark skin tone
+u1f91a	raised back of hand
+u1f91a_1f3fb	raised back of hand: light skin tone
+u1f91a_1f3fc	raised back of hand: medium-light skin tone
+u1f91a_1f3fd	raised back of hand: medium skin tone
+u1f91a_1f3fe	raised back of hand: medium-dark skin tone
+u1f91a_1f3ff	raised back of hand: dark skin tone
+u1f91b	left-facing fist
+u1f91b_1f3fb	left-facing fist: light skin tone
+u1f91b_1f3fc	left-facing fist: medium-light skin tone
+u1f91b_1f3fd	left-facing fist: medium skin tone
+u1f91b_1f3fe	left-facing fist: medium-dark skin tone
+u1f91b_1f3ff	left-facing fist: dark skin tone
+u1f91c	right-facing fist
+u1f91c_1f3fb	right-facing fist: light skin tone
+u1f91c_1f3fc	right-facing fist: medium-light skin tone
+u1f91c_1f3fd	right-facing fist: medium skin tone
+u1f91c_1f3fe	right-facing fist: medium-dark skin tone
+u1f91c_1f3ff	right-facing fist: dark skin tone
+u1f91d	handshake
+u1f91e	crossed fingers
+u1f91e_1f3fb	crossed fingers: light skin tone
+u1f91e_1f3fc	crossed fingers: medium-light skin tone
+u1f91e_1f3fd	crossed fingers: medium skin tone
+u1f91e_1f3fe	crossed fingers: medium-dark skin tone
+u1f91e_1f3ff	crossed fingers: dark skin tone
+u1f91f	love-you gesture
+u1f91f_1f3fb	love-you gesture: light skin tone
+u1f91f_1f3fc	love-you gesture: medium-light skin tone
+u1f91f_1f3fd	love-you gesture: medium skin tone
+u1f91f_1f3fe	love-you gesture: medium-dark skin tone
+u1f91f_1f3ff	love-you gesture: dark skin tone
+u1f920	cowboy hat face
+u1f921	clown face
+u1f922	nauseated face
+u1f923	rolling on the floor laughing
+u1f924	drooling face
+u1f925	lying face
+u1f926	person facepalming
+u1f926_1f3fb	person facepalming: light skin tone
+u1f926_1f3fb_200d_2640	woman facepalming: light skin tone
+u1f926_1f3fb_200d_2642	man facepalming: light skin tone
+u1f926_1f3fc	person facepalming: medium-light skin tone
+u1f926_1f3fc_200d_2640	woman facepalming: medium-light skin tone
+u1f926_1f3fc_200d_2642	man facepalming: medium-light skin tone
+u1f926_1f3fd	person facepalming: medium skin tone
+u1f926_1f3fd_200d_2640	woman facepalming: medium skin tone
+u1f926_1f3fd_200d_2642	man facepalming: medium skin tone
+u1f926_1f3fe	person facepalming: medium-dark skin tone
+u1f926_1f3fe_200d_2640	woman facepalming: medium-dark skin tone
+u1f926_1f3fe_200d_2642	man facepalming: medium-dark skin tone
+u1f926_1f3ff	person facepalming: dark skin tone
+u1f926_1f3ff_200d_2640	woman facepalming: dark skin tone
+u1f926_1f3ff_200d_2642	man facepalming: dark skin tone
+u1f926_200d_2640	woman facepalming
+u1f926_200d_2642	man facepalming
+u1f927	sneezing face
+u1f928	face with raised eyebrow
+u1f929	star-struck
+u1f92a	zany face
+u1f92b	shushing face
+u1f92c	face with symbols on mouth
+u1f92d	face with hand over mouth
+u1f92e	face vomiting
+u1f92f	exploding head
+u1f930	pregnant woman
+u1f930_1f3fb	pregnant woman: light skin tone
+u1f930_1f3fc	pregnant woman: medium-light skin tone
+u1f930_1f3fd	pregnant woman: medium skin tone
+u1f930_1f3fe	pregnant woman: medium-dark skin tone
+u1f930_1f3ff	pregnant woman: dark skin tone
+u1f931	breast-feeding
+u1f931_1f3fb	breast-feeding: light skin tone
+u1f931_1f3fc	breast-feeding: medium-light skin tone
+u1f931_1f3fd	breast-feeding: medium skin tone
+u1f931_1f3fe	breast-feeding: medium-dark skin tone
+u1f931_1f3ff	breast-feeding: dark skin tone
+u1f932	palms up together
+u1f932_1f3fb	palms up together: light skin tone
+u1f932_1f3fc	palms up together: medium-light skin tone
+u1f932_1f3fd	palms up together: medium skin tone
+u1f932_1f3fe	palms up together: medium-dark skin tone
+u1f932_1f3ff	palms up together: dark skin tone
+u1f933	selfie
+u1f933_1f3fb	selfie: light skin tone
+u1f933_1f3fc	selfie: medium-light skin tone
+u1f933_1f3fd	selfie: medium skin tone
+u1f933_1f3fe	selfie: medium-dark skin tone
+u1f933_1f3ff	selfie: dark skin tone
+u1f934	prince
+u1f934_1f3fb	prince: light skin tone
+u1f934_1f3fc	prince: medium-light skin tone
+u1f934_1f3fd	prince: medium skin tone
+u1f934_1f3fe	prince: medium-dark skin tone
+u1f934_1f3ff	prince: dark skin tone
+u1f935	man in tuxedo
+u1f935_1f3fb	man in tuxedo: light skin tone
+u1f935_1f3fc	man in tuxedo: medium-light skin tone
+u1f935_1f3fd	man in tuxedo: medium skin tone
+u1f935_1f3fe	man in tuxedo: medium-dark skin tone
+u1f935_1f3ff	man in tuxedo: dark skin tone
+u1f936	Mrs. Claus
+u1f936_1f3fb	Mrs. Claus: light skin tone
+u1f936_1f3fc	Mrs. Claus: medium-light skin tone
+u1f936_1f3fd	Mrs. Claus: medium skin tone
+u1f936_1f3fe	Mrs. Claus: medium-dark skin tone
+u1f936_1f3ff	Mrs. Claus: dark skin tone
+u1f937	person shrugging
+u1f937_1f3fb	person shrugging: light skin tone
+u1f937_1f3fb_200d_2640	woman shrugging: light skin tone
+u1f937_1f3fb_200d_2642	man shrugging: light skin tone
+u1f937_1f3fc	person shrugging: medium-light skin tone
+u1f937_1f3fc_200d_2640	woman shrugging: medium-light skin tone
+u1f937_1f3fc_200d_2642	man shrugging: medium-light skin tone
+u1f937_1f3fd	person shrugging: medium skin tone
+u1f937_1f3fd_200d_2640	woman shrugging: medium skin tone
+u1f937_1f3fd_200d_2642	man shrugging: medium skin tone
+u1f937_1f3fe	person shrugging: medium-dark skin tone
+u1f937_1f3fe_200d_2640	woman shrugging: medium-dark skin tone
+u1f937_1f3fe_200d_2642	man shrugging: medium-dark skin tone
+u1f937_1f3ff	person shrugging: dark skin tone
+u1f937_1f3ff_200d_2640	woman shrugging: dark skin tone
+u1f937_1f3ff_200d_2642	man shrugging: dark skin tone
+u1f937_200d_2640	woman shrugging
+u1f937_200d_2642	man shrugging
+u1f938	person cartwheeling
+u1f938_1f3fb	person cartwheeling: light skin tone
+u1f938_1f3fb_200d_2640	woman cartwheeling: light skin tone
+u1f938_1f3fb_200d_2642	man cartwheeling: light skin tone
+u1f938_1f3fc	person cartwheeling: medium-light skin tone
+u1f938_1f3fc_200d_2640	woman cartwheeling: medium-light skin tone
+u1f938_1f3fc_200d_2642	man cartwheeling: medium-light skin tone
+u1f938_1f3fd	person cartwheeling: medium skin tone
+u1f938_1f3fd_200d_2640	woman cartwheeling: medium skin tone
+u1f938_1f3fd_200d_2642	man cartwheeling: medium skin tone
+u1f938_1f3fe	person cartwheeling: medium-dark skin tone
+u1f938_1f3fe_200d_2640	woman cartwheeling: medium-dark skin tone
+u1f938_1f3fe_200d_2642	man cartwheeling: medium-dark skin tone
+u1f938_1f3ff	person cartwheeling: dark skin tone
+u1f938_1f3ff_200d_2640	woman cartwheeling: dark skin tone
+u1f938_1f3ff_200d_2642	man cartwheeling: dark skin tone
+u1f938_200d_2640	woman cartwheeling
+u1f938_200d_2642	man cartwheeling
+u1f939	person juggling
+u1f939_1f3fb	person juggling: light skin tone
+u1f939_1f3fb_200d_2640	woman juggling: light skin tone
+u1f939_1f3fb_200d_2642	man juggling: light skin tone
+u1f939_1f3fc	person juggling: medium-light skin tone
+u1f939_1f3fc_200d_2640	woman juggling: medium-light skin tone
+u1f939_1f3fc_200d_2642	man juggling: medium-light skin tone
+u1f939_1f3fd	person juggling: medium skin tone
+u1f939_1f3fd_200d_2640	woman juggling: medium skin tone
+u1f939_1f3fd_200d_2642	man juggling: medium skin tone
+u1f939_1f3fe	person juggling: medium-dark skin tone
+u1f939_1f3fe_200d_2640	woman juggling: medium-dark skin tone
+u1f939_1f3fe_200d_2642	man juggling: medium-dark skin tone
+u1f939_1f3ff	person juggling: dark skin tone
+u1f939_1f3ff_200d_2640	woman juggling: dark skin tone
+u1f939_1f3ff_200d_2642	man juggling: dark skin tone
+u1f939_200d_2640	woman juggling
+u1f939_200d_2642	man juggling
+u1f93a	person fencing
+u1f93c	people wrestling
+u1f93c_200d_2640	women wrestling
+u1f93c_200d_2642	men wrestling
+u1f93d	person playing water polo
+u1f93d_1f3fb	person playing water polo: light skin tone
+u1f93d_1f3fb_200d_2640	woman playing water polo: light skin tone
+u1f93d_1f3fb_200d_2642	man playing water polo: light skin tone
+u1f93d_1f3fc	person playing water polo: medium-light skin tone
+u1f93d_1f3fc_200d_2640	woman playing water polo: medium-light skin tone
+u1f93d_1f3fc_200d_2642	man playing water polo: medium-light skin tone
+u1f93d_1f3fd	person playing water polo: medium skin tone
+u1f93d_1f3fd_200d_2640	woman playing water polo: medium skin tone
+u1f93d_1f3fd_200d_2642	man playing water polo: medium skin tone
+u1f93d_1f3fe	person playing water polo: medium-dark skin tone
+u1f93d_1f3fe_200d_2640	woman playing water polo: medium-dark skin tone
+u1f93d_1f3fe_200d_2642	man playing water polo: medium-dark skin tone
+u1f93d_1f3ff	person playing water polo: dark skin tone
+u1f93d_1f3ff_200d_2640	woman playing water polo: dark skin tone
+u1f93d_1f3ff_200d_2642	man playing water polo: dark skin tone
+u1f93d_200d_2640	woman playing water polo
+u1f93d_200d_2642	man playing water polo
+u1f93e	person playing handball
+u1f93e_1f3fb	person playing handball: light skin tone
+u1f93e_1f3fb_200d_2640	woman playing handball: light skin tone
+u1f93e_1f3fb_200d_2642	man playing handball: light skin tone
+u1f93e_1f3fc	person playing handball: medium-light skin tone
+u1f93e_1f3fc_200d_2640	woman playing handball: medium-light skin tone
+u1f93e_1f3fc_200d_2642	man playing handball: medium-light skin tone
+u1f93e_1f3fd	person playing handball: medium skin tone
+u1f93e_1f3fd_200d_2640	woman playing handball: medium skin tone
+u1f93e_1f3fd_200d_2642	man playing handball: medium skin tone
+u1f93e_1f3fe	person playing handball: medium-dark skin tone
+u1f93e_1f3fe_200d_2640	woman playing handball: medium-dark skin tone
+u1f93e_1f3fe_200d_2642	man playing handball: medium-dark skin tone
+u1f93e_1f3ff	person playing handball: dark skin tone
+u1f93e_1f3ff_200d_2640	woman playing handball: dark skin tone
+u1f93e_1f3ff_200d_2642	man playing handball: dark skin tone
+u1f93e_200d_2640	woman playing handball
+u1f93e_200d_2642	man playing handball
+u1f93f	diving mask
+u1f940	wilted flower
+u1f941	drum
+u1f942	clinking glasses
+u1f943	tumbler glass
+u1f944	spoon
+u1f945	goal net
+u1f947	1st place medal
+u1f948	2nd place medal
+u1f949	3rd place medal
+u1f94a	boxing glove
+u1f94b	martial arts uniform
+u1f94c	curling stone
+u1f94d	lacrosse
+u1f94e	softball
+u1f94f	flying disc
+u1f950	croissant
+u1f951	avocado
+u1f952	cucumber
+u1f953	bacon
+u1f954	potato
+u1f955	carrot
+u1f956	baguette bread
+u1f957	green salad
+u1f958	shallow pan of food
+u1f959	stuffed flatbread
+u1f95a	egg
+u1f95b	glass of milk
+u1f95c	peanuts
+u1f95d	kiwi fruit
+u1f95e	pancakes
+u1f95f	dumpling
+u1f960	fortune cookie
+u1f961	takeout box
+u1f962	chopsticks
+u1f963	bowl with spoon
+u1f964	cup with straw
+u1f965	coconut
+u1f966	broccoli
+u1f967	pie
+u1f968	pretzel
+u1f969	cut of meat
+u1f96a	sandwich
+u1f96b	canned food
+u1f96c	leafy green
+u1f96d	mango
+u1f96e	moon cake
+u1f96f	bagel
+u1f970	smiling face with hearts
+u1f971	yawning face
+u1f973	partying face
+u1f974	woozy face
+u1f975	hot face
+u1f976	cold face
+u1f97a	pleading face
+u1f97b	sari
+u1f97c	lab coat
+u1f97d	goggles
+u1f97e	hiking boot
+u1f97f	flat shoe
+u1f980	crab
+u1f981	lion
+u1f982	scorpion
+u1f983	turkey
+u1f984	unicorn
+u1f985	eagle
+u1f986	duck
+u1f987	bat
+u1f988	shark
+u1f989	owl
+u1f98a	fox
+u1f98b	butterfly
+u1f98c	deer
+u1f98d	gorilla
+u1f98e	lizard
+u1f98f	rhinoceros
+u1f990	shrimp
+u1f991	squid
+u1f992	giraffe
+u1f993	zebra
+u1f994	hedgehog
+u1f995	sauropod
+u1f996	T-Rex
+u1f997	cricket
+u1f998	kangaroo
+u1f999	llama
+u1f99a	peacock
+u1f99b	hippopotamus
+u1f99c	parrot
+u1f99d	raccoon
+u1f99e	lobster
+u1f99f	mosquito
+u1f9a0	microbe
+u1f9a1	badger
+u1f9a2	swan
+u1f9a5	sloth
+u1f9a6	otter
+u1f9a7	orangutan
+u1f9a8	skunk
+u1f9a9	flamingo
+u1f9aa	oyster
+u1f9ae	guide dog
+u1f9af	probing cane
+u1f9b0	red hair
+u1f9b1	curly hair
+u1f9b2	bald
+u1f9b3	white hair
+u1f9b4	bone
+u1f9b5	leg
+u1f9b5_1f3fb	leg: light skin tone
+u1f9b5_1f3fc	leg: medium-light skin tone
+u1f9b5_1f3fd	leg: medium skin tone
+u1f9b5_1f3fe	leg: medium-dark skin tone
+u1f9b5_1f3ff	leg: dark skin tone
+u1f9b6	foot
+u1f9b6_1f3fb	foot: light skin tone
+u1f9b6_1f3fc	foot: medium-light skin tone
+u1f9b6_1f3fd	foot: medium skin tone
+u1f9b6_1f3fe	foot: medium-dark skin tone
+u1f9b6_1f3ff	foot: dark skin tone
+u1f9b7	tooth
+u1f9b8	superhero
+u1f9b8_1f3fb	superhero: light skin tone
+u1f9b8_1f3fb_200d_2640	woman superhero: light skin tone
+u1f9b8_1f3fb_200d_2642	man superhero: light skin tone
+u1f9b8_1f3fc	superhero: medium-light skin tone
+u1f9b8_1f3fc_200d_2640	woman superhero: medium-light skin tone
+u1f9b8_1f3fc_200d_2642	man superhero: medium-light skin tone
+u1f9b8_1f3fd	superhero: medium skin tone
+u1f9b8_1f3fd_200d_2640	woman superhero: medium skin tone
+u1f9b8_1f3fd_200d_2642	man superhero: medium skin tone
+u1f9b8_1f3fe	superhero: medium-dark skin tone
+u1f9b8_1f3fe_200d_2640	woman superhero: medium-dark skin tone
+u1f9b8_1f3fe_200d_2642	man superhero: medium-dark skin tone
+u1f9b8_1f3ff	superhero: dark skin tone
+u1f9b8_1f3ff_200d_2640	woman superhero: dark skin tone
+u1f9b8_1f3ff_200d_2642	man superhero: dark skin tone
+u1f9b8_200d_2640	woman superhero
+u1f9b8_200d_2642	man superhero
+u1f9b9	supervillain
+u1f9b9_1f3fb	supervillain: light skin tone
+u1f9b9_1f3fb_200d_2640	woman supervillain: light skin tone
+u1f9b9_1f3fb_200d_2642	man supervillain: light skin tone
+u1f9b9_1f3fc	supervillain: medium-light skin tone
+u1f9b9_1f3fc_200d_2640	woman supervillain: medium-light skin tone
+u1f9b9_1f3fc_200d_2642	man supervillain: medium-light skin tone
+u1f9b9_1f3fd	supervillain: medium skin tone
+u1f9b9_1f3fd_200d_2640	woman supervillain: medium skin tone
+u1f9b9_1f3fd_200d_2642	man supervillain: medium skin tone
+u1f9b9_1f3fe	supervillain: medium-dark skin tone
+u1f9b9_1f3fe_200d_2640	woman supervillain: medium-dark skin tone
+u1f9b9_1f3fe_200d_2642	man supervillain: medium-dark skin tone
+u1f9b9_1f3ff	supervillain: dark skin tone
+u1f9b9_1f3ff_200d_2640	woman supervillain: dark skin tone
+u1f9b9_1f3ff_200d_2642	man supervillain: dark skin tone
+u1f9b9_200d_2640	woman supervillain
+u1f9b9_200d_2642	man supervillain
+u1f9ba	safety vest
+u1f9bb	ear with hearing aid
+u1f9bb_1f3fb	ear with hearing aid: light skin tone
+u1f9bb_1f3fc	ear with hearing aid: medium-light skin tone
+u1f9bb_1f3fd	ear with hearing aid: medium skin tone
+u1f9bb_1f3fe	ear with hearing aid: medium-dark skin tone
+u1f9bb_1f3ff	ear with hearing aid: dark skin tone
+u1f9bc	motorized wheelchair
+u1f9bd	manual wheelchair
+u1f9be	mechanical arm
+u1f9bf	mechanical leg
+u1f9c0	cheese wedge
+u1f9c1	cupcake
+u1f9c2	salt
+u1f9c3	beverage box
+u1f9c4	garlic
+u1f9c5	onion
+u1f9c6	falafel
+u1f9c7	waffle
+u1f9c8	butter
+u1f9c9	mate
+u1f9ca	ice
+u1f9cd	person standing
+u1f9cd_1f3fb	person standing: light skin tone
+u1f9cd_1f3fb_200d_2640	woman standing: light skin tone
+u1f9cd_1f3fb_200d_2642	man standing: light skin tone
+u1f9cd_1f3fc	person standing: medium-light skin tone
+u1f9cd_1f3fc_200d_2640	woman standing: medium-light skin tone
+u1f9cd_1f3fc_200d_2642	man standing: medium-light skin tone
+u1f9cd_1f3fd	person standing: medium skin tone
+u1f9cd_1f3fd_200d_2640	woman standing: medium skin tone
+u1f9cd_1f3fd_200d_2642	man standing: medium skin tone
+u1f9cd_1f3fe	person standing: medium-dark skin tone
+u1f9cd_1f3fe_200d_2640	woman standing: medium-dark skin tone
+u1f9cd_1f3fe_200d_2642	man standing: medium-dark skin tone
+u1f9cd_1f3ff	person standing: dark skin tone
+u1f9cd_1f3ff_200d_2640	woman standing: dark skin tone
+u1f9cd_1f3ff_200d_2642	man standing: dark skin tone
+u1f9cd_200d_2640	woman standing
+u1f9cd_200d_2642	man standing
+u1f9ce	person kneeling
+u1f9ce_1f3fb	person kneeling: light skin tone
+u1f9ce_1f3fb_200d_2640	woman kneeling: light skin tone
+u1f9ce_1f3fb_200d_2642	man kneeling: light skin tone
+u1f9ce_1f3fc	person kneeling: medium-light skin tone
+u1f9ce_1f3fc_200d_2640	woman kneeling: medium-light skin tone
+u1f9ce_1f3fc_200d_2642	man kneeling: medium-light skin tone
+u1f9ce_1f3fd	person kneeling: medium skin tone
+u1f9ce_1f3fd_200d_2640	woman kneeling: medium skin tone
+u1f9ce_1f3fd_200d_2642	man kneeling: medium skin tone
+u1f9ce_1f3fe	person kneeling: medium-dark skin tone
+u1f9ce_1f3fe_200d_2640	woman kneeling: medium-dark skin tone
+u1f9ce_1f3fe_200d_2642	man kneeling: medium-dark skin tone
+u1f9ce_1f3ff	person kneeling: dark skin tone
+u1f9ce_1f3ff_200d_2640	woman kneeling: dark skin tone
+u1f9ce_1f3ff_200d_2642	man kneeling: dark skin tone
+u1f9ce_200d_2640	woman kneeling
+u1f9ce_200d_2642	man kneeling
+u1f9cf	deaf person
+u1f9cf_1f3fb	deaf person: light skin tone
+u1f9cf_1f3fb_200d_2640	deaf woman: light skin tone
+u1f9cf_1f3fb_200d_2642	deaf man: light skin tone
+u1f9cf_1f3fc	deaf person: medium-light skin tone
+u1f9cf_1f3fc_200d_2640	deaf woman: medium-light skin tone
+u1f9cf_1f3fc_200d_2642	deaf man: medium-light skin tone
+u1f9cf_1f3fd	deaf person: medium skin tone
+u1f9cf_1f3fd_200d_2640	deaf woman: medium skin tone
+u1f9cf_1f3fd_200d_2642	deaf man: medium skin tone
+u1f9cf_1f3fe	deaf person: medium-dark skin tone
+u1f9cf_1f3fe_200d_2640	deaf woman: medium-dark skin tone
+u1f9cf_1f3fe_200d_2642	deaf man: medium-dark skin tone
+u1f9cf_1f3ff	deaf person: dark skin tone
+u1f9cf_1f3ff_200d_2640	deaf woman: dark skin tone
+u1f9cf_1f3ff_200d_2642	deaf man: dark skin tone
+u1f9cf_200d_2640	deaf woman
+u1f9cf_200d_2642	deaf man
+u1f9d0	face with monocle
+u1f9d1	person
+u1f9d1_1f3fb	person: light skin tone
+u1f9d1_1f3fb_200d_1f33e	farmer: light skin tone
+u1f9d1_1f3fb_200d_1f373	cook: light skin tone
+u1f9d1_1f3fb_200d_1f393	student: light skin tone
+u1f9d1_1f3fb_200d_1f3a4	singer: light skin tone
+u1f9d1_1f3fb_200d_1f3a8	artist: light skin tone
+u1f9d1_1f3fb_200d_1f3eb	teacher: light skin tone
+u1f9d1_1f3fb_200d_1f3ed	factory worker: light skin tone
+u1f9d1_1f3fb_200d_1f4bb	technologist: light skin tone
+u1f9d1_1f3fb_200d_1f4bc	office worker: light skin tone
+u1f9d1_1f3fb_200d_1f527	mechanic: light skin tone
+u1f9d1_1f3fb_200d_1f52c	scientist: light skin tone
+u1f9d1_1f3fb_200d_1f680	astronaut: light skin tone
+u1f9d1_1f3fb_200d_1f692	firefighter: light skin tone
+u1f9d1_1f3fb_200d_1f91d_200d_1f9d1_1f3fb	people holding hands: light skin tone
+u1f9d1_1f3fb_200d_1f91d_200d_1f9d1_1f3fc	people holding hands: light skin tone, medium-light skin tone
+u1f9d1_1f3fb_200d_1f91d_200d_1f9d1_1f3fd	people holding hands: light skin tone, medium skin tone
+u1f9d1_1f3fb_200d_1f91d_200d_1f9d1_1f3fe	people holding hands: light skin tone, medium-dark skin tone
+u1f9d1_1f3fb_200d_1f91d_200d_1f9d1_1f3ff	people holding hands: light skin tone, dark skin tone
+u1f9d1_1f3fb_200d_1f9af	person with probing cane: light skin tone
+u1f9d1_1f3fb_200d_1f9b0	person: light skin tone, red hair
+u1f9d1_1f3fb_200d_1f9b1	person: light skin tone, curly hair
+u1f9d1_1f3fb_200d_1f9b2	person: light skin tone, bald
+u1f9d1_1f3fb_200d_1f9b3	person: light skin tone, white hair
+u1f9d1_1f3fb_200d_1f9bc	person in motorized wheelchair: light skin tone
+u1f9d1_1f3fb_200d_1f9bd	person in manual wheelchair: light skin tone
+u1f9d1_1f3fb_200d_2695	health worker: light skin tone
+u1f9d1_1f3fb_200d_2696	judge: light skin tone
+u1f9d1_1f3fb_200d_2708	pilot: light skin tone
+u1f9d1_1f3fc	person: medium-light skin tone
+u1f9d1_1f3fc_200d_1f33e	farmer: medium-light skin tone
+u1f9d1_1f3fc_200d_1f373	cook: medium-light skin tone
+u1f9d1_1f3fc_200d_1f393	student: medium-light skin tone
+u1f9d1_1f3fc_200d_1f3a4	singer: medium-light skin tone
+u1f9d1_1f3fc_200d_1f3a8	artist: medium-light skin tone
+u1f9d1_1f3fc_200d_1f3eb	teacher: medium-light skin tone
+u1f9d1_1f3fc_200d_1f3ed	factory worker: medium-light skin tone
+u1f9d1_1f3fc_200d_1f4bb	technologist: medium-light skin tone
+u1f9d1_1f3fc_200d_1f4bc	office worker: medium-light skin tone
+u1f9d1_1f3fc_200d_1f527	mechanic: medium-light skin tone
+u1f9d1_1f3fc_200d_1f52c	scientist: medium-light skin tone
+u1f9d1_1f3fc_200d_1f680	astronaut: medium-light skin tone
+u1f9d1_1f3fc_200d_1f692	firefighter: medium-light skin tone
+u1f9d1_1f3fc_200d_1f91d_200d_1f9d1_1f3fb	people holding hands: medium-light skin tone, light skin tone
+u1f9d1_1f3fc_200d_1f91d_200d_1f9d1_1f3fc	people holding hands: medium-light skin tone
+u1f9d1_1f3fc_200d_1f91d_200d_1f9d1_1f3fd	people holding hands: medium-light skin tone, medium skin tone
+u1f9d1_1f3fc_200d_1f91d_200d_1f9d1_1f3fe	people holding hands: medium-light skin tone, medium-dark skin tone
+u1f9d1_1f3fc_200d_1f91d_200d_1f9d1_1f3ff	people holding hands: medium-light skin tone, dark skin tone
+u1f9d1_1f3fc_200d_1f9af	person with probing cane: medium-light skin tone
+u1f9d1_1f3fc_200d_1f9b0	person: medium-light skin tone, red hair
+u1f9d1_1f3fc_200d_1f9b1	person: medium-light skin tone, curly hair
+u1f9d1_1f3fc_200d_1f9b2	person: medium-light skin tone, bald
+u1f9d1_1f3fc_200d_1f9b3	person: medium-light skin tone, white hair
+u1f9d1_1f3fc_200d_1f9bc	person in motorized wheelchair: medium-light skin tone
+u1f9d1_1f3fc_200d_1f9bd	person in manual wheelchair: medium-light skin tone
+u1f9d1_1f3fc_200d_2695	health worker: medium-light skin tone
+u1f9d1_1f3fc_200d_2696	judge: medium-light skin tone
+u1f9d1_1f3fc_200d_2708	pilot: medium-light skin tone
+u1f9d1_1f3fd	person: medium skin tone
+u1f9d1_1f3fd_200d_1f33e	farmer: medium skin tone
+u1f9d1_1f3fd_200d_1f373	cook: medium skin tone
+u1f9d1_1f3fd_200d_1f393	student: medium skin tone
+u1f9d1_1f3fd_200d_1f3a4	singer: medium skin tone
+u1f9d1_1f3fd_200d_1f3a8	artist: medium skin tone
+u1f9d1_1f3fd_200d_1f3eb	teacher: medium skin tone
+u1f9d1_1f3fd_200d_1f3ed	factory worker: medium skin tone
+u1f9d1_1f3fd_200d_1f4bb	technologist: medium skin tone
+u1f9d1_1f3fd_200d_1f4bc	office worker: medium skin tone
+u1f9d1_1f3fd_200d_1f527	mechanic: medium skin tone
+u1f9d1_1f3fd_200d_1f52c	scientist: medium skin tone
+u1f9d1_1f3fd_200d_1f680	astronaut: medium skin tone
+u1f9d1_1f3fd_200d_1f692	firefighter: medium skin tone
+u1f9d1_1f3fd_200d_1f91d_200d_1f9d1_1f3fb	people holding hands: medium skin tone, light skin tone
+u1f9d1_1f3fd_200d_1f91d_200d_1f9d1_1f3fc	people holding hands: medium skin tone, medium-light skin tone
+u1f9d1_1f3fd_200d_1f91d_200d_1f9d1_1f3fd	people holding hands: medium skin tone
+u1f9d1_1f3fd_200d_1f91d_200d_1f9d1_1f3fe	people holding hands: medium skin tone, medium-dark skin tone
+u1f9d1_1f3fd_200d_1f91d_200d_1f9d1_1f3ff	people holding hands: medium skin tone, dark skin tone
+u1f9d1_1f3fd_200d_1f9af	person with probing cane: medium skin tone
+u1f9d1_1f3fd_200d_1f9b0	person: medium skin tone, red hair
+u1f9d1_1f3fd_200d_1f9b1	person: medium skin tone, curly hair
+u1f9d1_1f3fd_200d_1f9b2	person: medium skin tone, bald
+u1f9d1_1f3fd_200d_1f9b3	person: medium skin tone, white hair
+u1f9d1_1f3fd_200d_1f9bc	person in motorized wheelchair: medium skin tone
+u1f9d1_1f3fd_200d_1f9bd	person in manual wheelchair: medium skin tone
+u1f9d1_1f3fd_200d_2695	health worker: medium skin tone
+u1f9d1_1f3fd_200d_2696	judge: medium skin tone
+u1f9d1_1f3fd_200d_2708	pilot: medium skin tone
+u1f9d1_1f3fe	person: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f33e	farmer: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f373	cook: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f393	student: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f3a4	singer: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f3a8	artist: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f3eb	teacher: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f3ed	factory worker: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f4bb	technologist: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f4bc	office worker: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f527	mechanic: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f52c	scientist: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f680	astronaut: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f692	firefighter: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f91d_200d_1f9d1_1f3fb	people holding hands: medium-dark skin tone, light skin tone
+u1f9d1_1f3fe_200d_1f91d_200d_1f9d1_1f3fc	people holding hands: medium-dark skin tone, medium-light skin tone
+u1f9d1_1f3fe_200d_1f91d_200d_1f9d1_1f3fd	people holding hands: medium-dark skin tone, medium skin tone
+u1f9d1_1f3fe_200d_1f91d_200d_1f9d1_1f3fe	people holding hands: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f91d_200d_1f9d1_1f3ff	people holding hands: medium-dark skin tone, dark skin tone
+u1f9d1_1f3fe_200d_1f9af	person with probing cane: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f9b0	person: medium-dark skin tone, red hair
+u1f9d1_1f3fe_200d_1f9b1	person: medium-dark skin tone, curly hair
+u1f9d1_1f3fe_200d_1f9b2	person: medium-dark skin tone, bald
+u1f9d1_1f3fe_200d_1f9b3	person: medium-dark skin tone, white hair
+u1f9d1_1f3fe_200d_1f9bc	person in motorized wheelchair: medium-dark skin tone
+u1f9d1_1f3fe_200d_1f9bd	person in manual wheelchair: medium-dark skin tone
+u1f9d1_1f3fe_200d_2695	health worker: medium-dark skin tone
+u1f9d1_1f3fe_200d_2696	judge: medium-dark skin tone
+u1f9d1_1f3fe_200d_2708	pilot: medium-dark skin tone
+u1f9d1_1f3ff	person: dark skin tone
+u1f9d1_1f3ff_200d_1f33e	farmer: dark skin tone
+u1f9d1_1f3ff_200d_1f373	cook: dark skin tone
+u1f9d1_1f3ff_200d_1f393	student: dark skin tone
+u1f9d1_1f3ff_200d_1f3a4	singer: dark skin tone
+u1f9d1_1f3ff_200d_1f3a8	artist: dark skin tone
+u1f9d1_1f3ff_200d_1f3eb	teacher: dark skin tone
+u1f9d1_1f3ff_200d_1f3ed	factory worker: dark skin tone
+u1f9d1_1f3ff_200d_1f4bb	technologist: dark skin tone
+u1f9d1_1f3ff_200d_1f4bc	office worker: dark skin tone
+u1f9d1_1f3ff_200d_1f527	mechanic: dark skin tone
+u1f9d1_1f3ff_200d_1f52c	scientist: dark skin tone
+u1f9d1_1f3ff_200d_1f680	astronaut: dark skin tone
+u1f9d1_1f3ff_200d_1f692	firefighter: dark skin tone
+u1f9d1_1f3ff_200d_1f91d_200d_1f9d1_1f3fb	people holding hands: dark skin tone, light skin tone
+u1f9d1_1f3ff_200d_1f91d_200d_1f9d1_1f3fc	people holding hands: dark skin tone, medium-light skin tone
+u1f9d1_1f3ff_200d_1f91d_200d_1f9d1_1f3fd	people holding hands: dark skin tone, medium skin tone
+u1f9d1_1f3ff_200d_1f91d_200d_1f9d1_1f3fe	people holding hands: dark skin tone, medium-dark skin tone
+u1f9d1_1f3ff_200d_1f91d_200d_1f9d1_1f3ff	people holding hands: dark skin tone
+u1f9d1_1f3ff_200d_1f9af	person with probing cane: dark skin tone
+u1f9d1_1f3ff_200d_1f9b0	person: dark skin tone, red hair
+u1f9d1_1f3ff_200d_1f9b1	person: dark skin tone, curly hair
+u1f9d1_1f3ff_200d_1f9b2	person: dark skin tone, bald
+u1f9d1_1f3ff_200d_1f9b3	person: dark skin tone, white hair
+u1f9d1_1f3ff_200d_1f9bc	person in motorized wheelchair: dark skin tone
+u1f9d1_1f3ff_200d_1f9bd	person in manual wheelchair: dark skin tone
+u1f9d1_1f3ff_200d_2695	health worker: dark skin tone
+u1f9d1_1f3ff_200d_2696	judge: dark skin tone
+u1f9d1_1f3ff_200d_2708	pilot: dark skin tone
+u1f9d1_200d_1f33e	farmer
+u1f9d1_200d_1f373	cook
+u1f9d1_200d_1f393	student
+u1f9d1_200d_1f3a4	singer
+u1f9d1_200d_1f3a8	artist
+u1f9d1_200d_1f3eb	teacher
+u1f9d1_200d_1f3ed	factory worker
+u1f9d1_200d_1f4bb	technologist
+u1f9d1_200d_1f4bc	office worker
+u1f9d1_200d_1f527	mechanic
+u1f9d1_200d_1f52c	scientist
+u1f9d1_200d_1f680	astronaut
+u1f9d1_200d_1f692	firefighter
+u1f9d1_200d_1f91d_200d_1f9d1	people holding hands
+u1f9d1_200d_1f9af	person with probing cane
+u1f9d1_200d_1f9b0	person: red hair
+u1f9d1_200d_1f9b1	person: curly hair
+u1f9d1_200d_1f9b2	person: bald
+u1f9d1_200d_1f9b3	person: white hair
+u1f9d1_200d_1f9bc	person in motorized wheelchair
+u1f9d1_200d_1f9bd	person in manual wheelchair
+u1f9d1_200d_2695	health worker
+u1f9d1_200d_2696	judge
+u1f9d1_200d_2708	pilot
+u1f9d2	child
+u1f9d2_1f3fb	child: light skin tone
+u1f9d2_1f3fc	child: medium-light skin tone
+u1f9d2_1f3fd	child: medium skin tone
+u1f9d2_1f3fe	child: medium-dark skin tone
+u1f9d2_1f3ff	child: dark skin tone
+u1f9d3	older person
+u1f9d3_1f3fb	older person: light skin tone
+u1f9d3_1f3fc	older person: medium-light skin tone
+u1f9d3_1f3fd	older person: medium skin tone
+u1f9d3_1f3fe	older person: medium-dark skin tone
+u1f9d3_1f3ff	older person: dark skin tone
+u1f9d4	man: beard
+u1f9d4_1f3fb	man: light skin tone, beard
+u1f9d4_1f3fc	man: medium-light skin tone, beard
+u1f9d4_1f3fd	man: medium skin tone, beard
+u1f9d4_1f3fe	man: medium-dark skin tone, beard
+u1f9d4_1f3ff	man: dark skin tone, beard
+u1f9d5	woman with headscarf
+u1f9d5_1f3fb	woman with headscarf: light skin tone
+u1f9d5_1f3fc	woman with headscarf: medium-light skin tone
+u1f9d5_1f3fd	woman with headscarf: medium skin tone
+u1f9d5_1f3fe	woman with headscarf: medium-dark skin tone
+u1f9d5_1f3ff	woman with headscarf: dark skin tone
+u1f9d6	person in steamy room
+u1f9d6_1f3fb	person in steamy room: light skin tone
+u1f9d6_1f3fb_200d_2640	woman in steamy room: light skin tone
+u1f9d6_1f3fb_200d_2642	man in steamy room: light skin tone
+u1f9d6_1f3fc	person in steamy room: medium-light skin tone
+u1f9d6_1f3fc_200d_2640	woman in steamy room: medium-light skin tone
+u1f9d6_1f3fc_200d_2642	man in steamy room: medium-light skin tone
+u1f9d6_1f3fd	person in steamy room: medium skin tone
+u1f9d6_1f3fd_200d_2640	woman in steamy room: medium skin tone
+u1f9d6_1f3fd_200d_2642	man in steamy room: medium skin tone
+u1f9d6_1f3fe	person in steamy room: medium-dark skin tone
+u1f9d6_1f3fe_200d_2640	woman in steamy room: medium-dark skin tone
+u1f9d6_1f3fe_200d_2642	man in steamy room: medium-dark skin tone
+u1f9d6_1f3ff	person in steamy room: dark skin tone
+u1f9d6_1f3ff_200d_2640	woman in steamy room: dark skin tone
+u1f9d6_1f3ff_200d_2642	man in steamy room: dark skin tone
+u1f9d6_200d_2640	woman in steamy room
+u1f9d6_200d_2642	man in steamy room
+u1f9d7	person climbing
+u1f9d7_1f3fb	person climbing: light skin tone
+u1f9d7_1f3fb_200d_2640	woman climbing: light skin tone
+u1f9d7_1f3fb_200d_2642	man climbing: light skin tone
+u1f9d7_1f3fc	person climbing: medium-light skin tone
+u1f9d7_1f3fc_200d_2640	woman climbing: medium-light skin tone
+u1f9d7_1f3fc_200d_2642	man climbing: medium-light skin tone
+u1f9d7_1f3fd	person climbing: medium skin tone
+u1f9d7_1f3fd_200d_2640	woman climbing: medium skin tone
+u1f9d7_1f3fd_200d_2642	man climbing: medium skin tone
+u1f9d7_1f3fe	person climbing: medium-dark skin tone
+u1f9d7_1f3fe_200d_2640	woman climbing: medium-dark skin tone
+u1f9d7_1f3fe_200d_2642	man climbing: medium-dark skin tone
+u1f9d7_1f3ff	person climbing: dark skin tone
+u1f9d7_1f3ff_200d_2640	woman climbing: dark skin tone
+u1f9d7_1f3ff_200d_2642	man climbing: dark skin tone
+u1f9d7_200d_2640	woman climbing
+u1f9d7_200d_2642	man climbing
+u1f9d8	person in lotus position
+u1f9d8_1f3fb	person in lotus position: light skin tone
+u1f9d8_1f3fb_200d_2640	woman in lotus position: light skin tone
+u1f9d8_1f3fb_200d_2642	man in lotus position: light skin tone
+u1f9d8_1f3fc	person in lotus position: medium-light skin tone
+u1f9d8_1f3fc_200d_2640	woman in lotus position: medium-light skin tone
+u1f9d8_1f3fc_200d_2642	man in lotus position: medium-light skin tone
+u1f9d8_1f3fd	person in lotus position: medium skin tone
+u1f9d8_1f3fd_200d_2640	woman in lotus position: medium skin tone
+u1f9d8_1f3fd_200d_2642	man in lotus position: medium skin tone
+u1f9d8_1f3fe	person in lotus position: medium-dark skin tone
+u1f9d8_1f3fe_200d_2640	woman in lotus position: medium-dark skin tone
+u1f9d8_1f3fe_200d_2642	man in lotus position: medium-dark skin tone
+u1f9d8_1f3ff	person in lotus position: dark skin tone
+u1f9d8_1f3ff_200d_2640	woman in lotus position: dark skin tone
+u1f9d8_1f3ff_200d_2642	man in lotus position: dark skin tone
+u1f9d8_200d_2640	woman in lotus position
+u1f9d8_200d_2642	man in lotus position
+u1f9d9	mage
+u1f9d9_1f3fb	mage: light skin tone
+u1f9d9_1f3fb_200d_2640	woman mage: light skin tone
+u1f9d9_1f3fb_200d_2642	man mage: light skin tone
+u1f9d9_1f3fc	mage: medium-light skin tone
+u1f9d9_1f3fc_200d_2640	woman mage: medium-light skin tone
+u1f9d9_1f3fc_200d_2642	man mage: medium-light skin tone
+u1f9d9_1f3fd	mage: medium skin tone
+u1f9d9_1f3fd_200d_2640	woman mage: medium skin tone
+u1f9d9_1f3fd_200d_2642	man mage: medium skin tone
+u1f9d9_1f3fe	mage: medium-dark skin tone
+u1f9d9_1f3fe_200d_2640	woman mage: medium-dark skin tone
+u1f9d9_1f3fe_200d_2642	man mage: medium-dark skin tone
+u1f9d9_1f3ff	mage: dark skin tone
+u1f9d9_1f3ff_200d_2640	woman mage: dark skin tone
+u1f9d9_1f3ff_200d_2642	man mage: dark skin tone
+u1f9d9_200d_2640	woman mage
+u1f9d9_200d_2642	man mage
+u1f9da	fairy
+u1f9da_1f3fb	fairy: light skin tone
+u1f9da_1f3fb_200d_2640	woman fairy: light skin tone
+u1f9da_1f3fb_200d_2642	man fairy: light skin tone
+u1f9da_1f3fc	fairy: medium-light skin tone
+u1f9da_1f3fc_200d_2640	woman fairy: medium-light skin tone
+u1f9da_1f3fc_200d_2642	man fairy: medium-light skin tone
+u1f9da_1f3fd	fairy: medium skin tone
+u1f9da_1f3fd_200d_2640	woman fairy: medium skin tone
+u1f9da_1f3fd_200d_2642	man fairy: medium skin tone
+u1f9da_1f3fe	fairy: medium-dark skin tone
+u1f9da_1f3fe_200d_2640	woman fairy: medium-dark skin tone
+u1f9da_1f3fe_200d_2642	man fairy: medium-dark skin tone
+u1f9da_1f3ff	fairy: dark skin tone
+u1f9da_1f3ff_200d_2640	woman fairy: dark skin tone
+u1f9da_1f3ff_200d_2642	man fairy: dark skin tone
+u1f9da_200d_2640	woman fairy
+u1f9da_200d_2642	man fairy
+u1f9db	vampire
+u1f9db_1f3fb	vampire: light skin tone
+u1f9db_1f3fb_200d_2640	woman vampire: light skin tone
+u1f9db_1f3fb_200d_2642	man vampire: light skin tone
+u1f9db_1f3fc	vampire: medium-light skin tone
+u1f9db_1f3fc_200d_2640	woman vampire: medium-light skin tone
+u1f9db_1f3fc_200d_2642	man vampire: medium-light skin tone
+u1f9db_1f3fd	vampire: medium skin tone
+u1f9db_1f3fd_200d_2640	woman vampire: medium skin tone
+u1f9db_1f3fd_200d_2642	man vampire: medium skin tone
+u1f9db_1f3fe	vampire: medium-dark skin tone
+u1f9db_1f3fe_200d_2640	woman vampire: medium-dark skin tone
+u1f9db_1f3fe_200d_2642	man vampire: medium-dark skin tone
+u1f9db_1f3ff	vampire: dark skin tone
+u1f9db_1f3ff_200d_2640	woman vampire: dark skin tone
+u1f9db_1f3ff_200d_2642	man vampire: dark skin tone
+u1f9db_200d_2640	woman vampire
+u1f9db_200d_2642	man vampire
+u1f9dc	merperson
+u1f9dc_1f3fb	merperson: light skin tone
+u1f9dc_1f3fb_200d_2640	mermaid: light skin tone
+u1f9dc_1f3fb_200d_2642	merman: light skin tone
+u1f9dc_1f3fc	merperson: medium-light skin tone
+u1f9dc_1f3fc_200d_2640	mermaid: medium-light skin tone
+u1f9dc_1f3fc_200d_2642	merman: medium-light skin tone
+u1f9dc_1f3fd	merperson: medium skin tone
+u1f9dc_1f3fd_200d_2640	mermaid: medium skin tone
+u1f9dc_1f3fd_200d_2642	merman: medium skin tone
+u1f9dc_1f3fe	merperson: medium-dark skin tone
+u1f9dc_1f3fe_200d_2640	mermaid: medium-dark skin tone
+u1f9dc_1f3fe_200d_2642	merman: medium-dark skin tone
+u1f9dc_1f3ff	merperson: dark skin tone
+u1f9dc_1f3ff_200d_2640	mermaid: dark skin tone
+u1f9dc_1f3ff_200d_2642	merman: dark skin tone
+u1f9dc_200d_2640	mermaid
+u1f9dc_200d_2642	merman
+u1f9dd	elf
+u1f9dd_1f3fb	elf: light skin tone
+u1f9dd_1f3fb_200d_2640	woman elf: light skin tone
+u1f9dd_1f3fb_200d_2642	man elf: light skin tone
+u1f9dd_1f3fc	elf: medium-light skin tone
+u1f9dd_1f3fc_200d_2640	woman elf: medium-light skin tone
+u1f9dd_1f3fc_200d_2642	man elf: medium-light skin tone
+u1f9dd_1f3fd	elf: medium skin tone
+u1f9dd_1f3fd_200d_2640	woman elf: medium skin tone
+u1f9dd_1f3fd_200d_2642	man elf: medium skin tone
+u1f9dd_1f3fe	elf: medium-dark skin tone
+u1f9dd_1f3fe_200d_2640	woman elf: medium-dark skin tone
+u1f9dd_1f3fe_200d_2642	man elf: medium-dark skin tone
+u1f9dd_1f3ff	elf: dark skin tone
+u1f9dd_1f3ff_200d_2640	woman elf: dark skin tone
+u1f9dd_1f3ff_200d_2642	man elf: dark skin tone
+u1f9dd_200d_2640	woman elf
+u1f9dd_200d_2642	man elf
+u1f9de	genie
+u1f9de_200d_2640	woman genie
+u1f9de_200d_2642	man genie
+u1f9df	zombie
+u1f9df_200d_2640	woman zombie
+u1f9df_200d_2642	man zombie
+u1f9e0	brain
+u1f9e1	orange heart
+u1f9e2	billed cap
+u1f9e3	scarf
+u1f9e4	gloves
+u1f9e5	coat
+u1f9e6	socks
+u1f9e7	red envelope
+u1f9e8	firecracker
+u1f9e9	puzzle piece
+u1f9ea	test tube
+u1f9eb	petri dish
+u1f9ec	dna
+u1f9ed	compass
+u1f9ee	abacus
+u1f9ef	fire extinguisher
+u1f9f0	toolbox
+u1f9f1	brick
+u1f9f2	magnet
+u1f9f3	luggage
+u1f9f4	lotion bottle
+u1f9f5	thread
+u1f9f6	yarn
+u1f9f7	safety pin
+u1f9f8	teddy bear
+u1f9f9	broom
+u1f9fa	basket
+u1f9fb	roll of paper
+u1f9fc	soap
+u1f9fd	sponge
+u1f9fe	receipt
+u1f9ff	nazar amulet
+u1fa70	ballet shoes
+u1fa71	one-piece swimsuit
+u1fa72	briefs
+u1fa73	shorts
+u1fa78	drop of blood
+u1fa79	adhesive bandage
+u1fa7a	stethoscope
+u1fa80	yo-yo
+u1fa81	kite
+u1fa82	parachute
+u1fa90	ringed planet
+u1fa91	chair
+u1fa92	razor
+u1fa93	axe
+u1fa94	diya lamp
+u1fa95	banjo
+u203c	double exclamation mark
+u2049	exclamation question mark
+u2122	trade mark
+u2139	information
+u2194	left-right arrow
+u2195	up-down arrow
+u2196	up-left arrow
+u2197	up-right arrow
+u2198	down-right arrow
+u2199	down-left arrow
+u21a9	right arrow curving left
+u21aa	left arrow curving right
+u231a	watch
+u231b	hourglass done
+u2328	keyboard
+u23cf	eject button
+u23e9	fast-forward button
+u23ea	fast reverse button
+u23eb	fast up button
+u23ec	fast down button
+u23ed	next track button
+u23ee	last track button
+u23ef	play or pause button
+u23f0	alarm clock
+u23f1	stopwatch
+u23f2	timer clock
+u23f3	hourglass not done
+u23f8	pause button
+u23f9	stop button
+u23fa	record button
+u24c2	circled M
+u25aa	black small square
+u25ab	white small square
+u25b6	play button
+u25c0	reverse button
+u25fb	white medium square
+u25fc	black medium square
+u25fd	white medium-small square
+u25fe	black medium-small square
+u2600	sun
+u2601	cloud
+u2602	umbrella
+u2603	snowman
+u2604	comet
+u260e	telephone
+u2611	check box with check
+u2614	umbrella with rain drops
+u2615	hot beverage
+u2618	shamrock
+u261d	index pointing up
+u261d_1f3fb	index pointing up: light skin tone
+u261d_1f3fc	index pointing up: medium-light skin tone
+u261d_1f3fd	index pointing up: medium skin tone
+u261d_1f3fe	index pointing up: medium-dark skin tone
+u261d_1f3ff	index pointing up: dark skin tone
+u2620	skull and crossbones
+u2622	radioactive
+u2623	biohazard
+u2626	orthodox cross
+u262a	star and crescent
+u262e	peace symbol
+u262f	yin yang
+u2638	wheel of dharma
+u2639	frowning face
+u263a	smiling face
+u2640	female sign
+u2642	male sign
+u2648	Aries
+u2649	Taurus
+u264a	Gemini
+u264b	Cancer
+u264c	Leo
+u264d	Virgo
+u264e	Libra
+u264f	Scorpio
+u2650	Sagittarius
+u2651	Capricorn
+u2652	Aquarius
+u2653	Pisces
+u265f	chess pawn
+u2660	spade suit
+u2663	club suit
+u2665	heart suit
+u2666	diamond suit
+u2668	hot springs
+u267b	recycling symbol
+u267e	infinity
+u267f	wheelchair symbol
+u2692	hammer and pick
+u2693	anchor
+u2694	crossed swords
+u2695	medical symbol
+u2696	balance scale
+u2697	alembic
+u2699	gear
+u269b	atom symbol
+u269c	fleur-de-lis
+u26a0	warning
+u26a1	high voltage
+u26aa	white circle
+u26ab	black circle
+u26b0	coffin
+u26b1	funeral urn
+u26bd	soccer ball
+u26be	baseball
+u26c4	snowman without snow
+u26c5	sun behind cloud
+u26c8	cloud with lightning and rain
+u26ce	Ophiuchus
+u26cf	pick
+u26d1	rescue worker’s helmet
+u26d3	chains
+u26d4	no entry
+u26e9	shinto shrine
+u26ea	church
+u26f0	mountain
+u26f1	umbrella on ground
+u26f2	fountain
+u26f3	flag in hole
+u26f4	ferry
+u26f5	sailboat
+u26f7	skier
+u26f8	ice skate
+u26f9	person bouncing ball
+u26f9_1f3fb	person bouncing ball: light skin tone
+u26f9_1f3fb_200d_2640	woman bouncing ball: light skin tone
+u26f9_1f3fb_200d_2642	man bouncing ball: light skin tone
+u26f9_1f3fc	person bouncing ball: medium-light skin tone
+u26f9_1f3fc_200d_2640	woman bouncing ball: medium-light skin tone
+u26f9_1f3fc_200d_2642	man bouncing ball: medium-light skin tone
+u26f9_1f3fd	person bouncing ball: medium skin tone
+u26f9_1f3fd_200d_2640	woman bouncing ball: medium skin tone
+u26f9_1f3fd_200d_2642	man bouncing ball: medium skin tone
+u26f9_1f3fe	person bouncing ball: medium-dark skin tone
+u26f9_1f3fe_200d_2640	woman bouncing ball: medium-dark skin tone
+u26f9_1f3fe_200d_2642	man bouncing ball: medium-dark skin tone
+u26f9_1f3ff	person bouncing ball: dark skin tone
+u26f9_1f3ff_200d_2640	woman bouncing ball: dark skin tone
+u26f9_1f3ff_200d_2642	man bouncing ball: dark skin tone
+u26f9_200d_2640	woman bouncing ball
+u26f9_200d_2642	man bouncing ball
+u26fa	tent
+u26fd	fuel pump
+u2702	scissors
+u2705	check mark button
+u2708	airplane
+u2709	envelope
+u270a	raised fist
+u270a_1f3fb	raised fist: light skin tone
+u270a_1f3fc	raised fist: medium-light skin tone
+u270a_1f3fd	raised fist: medium skin tone
+u270a_1f3fe	raised fist: medium-dark skin tone
+u270a_1f3ff	raised fist: dark skin tone
+u270b	raised hand
+u270b_1f3fb	raised hand: light skin tone
+u270b_1f3fc	raised hand: medium-light skin tone
+u270b_1f3fd	raised hand: medium skin tone
+u270b_1f3fe	raised hand: medium-dark skin tone
+u270b_1f3ff	raised hand: dark skin tone
+u270c	victory hand
+u270c_1f3fb	victory hand: light skin tone
+u270c_1f3fc	victory hand: medium-light skin tone
+u270c_1f3fd	victory hand: medium skin tone
+u270c_1f3fe	victory hand: medium-dark skin tone
+u270c_1f3ff	victory hand: dark skin tone
+u270d	writing hand
+u270d_1f3fb	writing hand: light skin tone
+u270d_1f3fc	writing hand: medium-light skin tone
+u270d_1f3fd	writing hand: medium skin tone
+u270d_1f3fe	writing hand: medium-dark skin tone
+u270d_1f3ff	writing hand: dark skin tone
+u270f	pencil
+u2712	black nib
+u2714	check mark
+u2716	multiplication sign
+u271d	latin cross
+u2721	star of David
+u2728	sparkles
+u2733	eight-spoked asterisk
+u2734	eight-pointed star
+u2744	snowflake
+u2747	sparkle
+u274c	cross mark
+u274e	cross mark button
+u2753	question mark
+u2754	white question mark
+u2755	white exclamation mark
+u2757	exclamation mark
+u2763	heart exclamation
+u2764	red heart
+u2795	plus sign
+u2796	minus sign
+u2797	division sign
+u27a1	right arrow
+u27b0	curly loop
+u27bf	double curly loop
+u2934	right arrow curving up
+u2935	right arrow curving down
+u2b05	left arrow
+u2b06	up arrow
+u2b07	down arrow
+u2b1b	black large square
+u2b1c	white large square
+u2b50	star
+u2b55	hollow red circle
+u3030	wavy dash
+u303d	part alternation mark
+u3297	Japanese “congratulations” button
+u3299	Japanese “secret” button
+
